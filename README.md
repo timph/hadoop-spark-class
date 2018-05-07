@@ -1,4 +1,4 @@
-# spark-course
+# Hadoop 102 - Spark with Scala, Python and Java
 
 ## Course material
 
