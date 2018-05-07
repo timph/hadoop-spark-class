@@ -4,3 +4,5 @@ target/
 ~*
 spark2.3/
 context/
+*.class
+bin/
