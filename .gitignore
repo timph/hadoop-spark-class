@@ -1,0 +1,6 @@
+spark-1.5.2-bin-hadoop2.6/
+target/
+.DS_Store
+~*
+spark2.3/
+context/

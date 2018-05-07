@@ -1,0 +1,8 @@
+#!/bin/bash
+
+file="$1"
+if [ ! "$file" ]; then
+  file=../../lesson-5xx-resources/sherlock-holmes.txt
+fi
+
+sbt "run-main com.example.wordcount.CountWords $file"

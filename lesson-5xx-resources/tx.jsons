@@ -1,0 +1,1265 @@
+{ "date": "2015-06-16", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-66.21 }
+{ "date": "2015-06-16", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-50.0 }
+{ "date": "2015-06-16", "desc": "POS Withdrawal - 879042 HEB GAS #404           AUSTIN       TXUS - Card Ending In 7090", "amount":-45.49 }
+{ "date": "2015-06-16", "desc": "POS Withdrawal - CVS 07607 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-37.41 }
+{ "date": "2015-06-16", "desc": "POS Withdrawal - DAIRY QUEEN # 436 777 CASINO AVENUE      THACKERVILLE OKUS - Card Ending In 2000", "amount":-4.56 }
+{ "date": "2015-06-16", "desc": "POS Deposit - OMNI DALLAS PARKWEST 1590 LBJ FREEWAY       DALLAS       TXU - Card Ending In 2000", "amount":50.0 }
+{ "date": "2015-06-16", "desc": "POS Deposit - OMNI DALLAS PARKWEST 1590 LBJ FREEWAY       DALLAS       TXU - Card Ending In 2000", "amount":110.86 }
+{ "date": "2015-06-17", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-511.36 }
+{ "date": "2015-06-17", "desc": "Withdrawal - Online Banking Transfer To Visa XXXXXXXXXXXX9293", "amount":-186.2 }
+{ "date": "2015-06-17", "desc": "POS Withdrawal - 1 800 CONTACTS 66 E WARDWORTH PARK DR 08002668228  UTUS - Card Ending In 2000", "amount":-118.97 }
+{ "date": "2015-06-17", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-85.0 }
+{ "date": "2015-06-17", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-80.0 }
+{ "date": "2015-06-17", "desc": "Withdrawal - Online Banking Transfer To Visa XXXXXXXXXXXX9293", "amount":-9.17 }
+{ "date": "2015-06-17", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":75.0 }
+{ "date": "2015-06-17", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":480.0 }
+{ "date": "2015-06-18", "desc": "POS Withdrawal - 1921254 DISCOUNT  DISCOUNT TIR AUSTIN       TXUS - Card Ending In 7090", "amount":-750.31 }
+{ "date": "2015-06-18", "desc": "External Withdrawal - FCU  -  Bac", "amount":-350.0 }
+{ "date": "2015-06-18", "desc": "External Withdrawal - FCU  -  Bac", "amount":-45.0 }
+{ "date": "2015-06-18", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-06-18", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-27.81 }
+{ "date": "2015-06-18", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-17.07 }
+{ "date": "2015-06-18", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-15.5 }
+{ "date": "2015-06-19", "desc": "POS Withdrawal - DISTRICT 5900 W SLAUGHTER LN D50AUSTIN       TXUS - Card Ending In 2000", "amount":-121.92 }
+{ "date": "2015-06-19", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-50.0 }
+{ "date": "2015-06-19", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-06-19", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-20.16 }
+{ "date": "2015-06-19", "desc": "POS Withdrawal - REDBOX *DVD RENTAL 1 Tower Lane Ste 1200  866-733-2693 ILUS - Card Ending In 2000", "amount":-4.82 }
+{ "date": "2015-06-19", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":750.31 }
+{ "date": "2015-06-20", "desc": "POS Withdrawal - WM SUPERCENTER # Wal-Mart Super Center  AUSTIN (MID WTXUS - Card Ending In 7090", "amount":-260.36 }
+{ "date": "2015-06-20", "desc": "POS Withdrawal - PUBLIX 7694 VINELAND          ORLANDO      FLUS - Card Ending In 2000", "amount":-154.34 }
+{ "date": "2015-06-20", "desc": "POS Withdrawal - DNC TRAVEL - AUSTI 3600 PRESIDENTIAL      AUSTIN       TXUS - Card Ending In 2000", "amount":-21.49 }
+{ "date": "2015-06-20", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-11.2 }
+{ "date": "2015-06-20", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-8.97 }
+{ "date": "2015-06-20", "desc": "POS Withdrawal - 545253 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-3.25 }
+{ "date": "2015-06-21", "desc": "POS Withdrawal - JD # 2 CHEVRON/JD # 2         AUSTIN       TXUS - Card Ending In 7090", "amount":-41.84 }
+{ "date": "2015-06-21", "desc": "POS Withdrawal - WM SUPERCENTER # Wal-Mart Super Center  AUSTIN (MID WTXUS - Card Ending In 7090", "amount":-20.9 }
+{ "date": "2015-06-21", "desc": "POS Withdrawal - 124182 SUNSHINE #222          ORLANDO      FLUS - Card Ending In 2000", "amount":-11.18 }
+{ "date": "2015-06-21", "desc": "POS Withdrawal - 7-ELEVEN 13407 APOPKA-VINEL     ORLANDO      FLUS - Card Ending In 2000", "amount":-3.29 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - APPLEBEES 076064676752 13351 SR 535           ORLANDO      F - Card Ending In 2000", "amount":-32.66 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-27.06 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - OUTBACK 1055 895 W Osceola Pkwy #300KISSIMMEE    FLUS - Card Ending In 2000", "amount":-24.93 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - SFM 185 CHEVRON/SFM 185        ORLANDO      FLUS - Card Ending In 2000", "amount":-23.02 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-16.21 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - ORANGE COUNTY C C CONC 9800 INTERNATIONAL DRIVORLANDO      F - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-06-22", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-2.0 }
+{ "date": "2015-06-22", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":140.0 }
+{ "date": "2015-06-23", "desc": "POS Withdrawal - SUBWAY        0028443 2800 E WHITESTONE BLVD CEDAR PARK   TX - Card Ending In 7090", "amount":-15.97 }
+{ "date": "2015-06-23", "desc": "POS Withdrawal - ORANGE COUNTY C C CONC 9800 INTERNATIONAL DRIVORLANDO      F - Card Ending In 2000", "amount":-12.5 }
+{ "date": "2015-06-23", "desc": "POS Withdrawal - POPEYES CHICKEN 2261 3652 BEE CAVES         WEST LAKE HILTXU - Card Ending In 7090", "amount":-8.65 }
+{ "date": "2015-06-23", "desc": "POS Withdrawal - DRIPPIN' DONUTS 651  HWY. 290 WEST     DRIPPING SPRITXUS - Card Ending In 7090", "amount":-7.84 }
+{ "date": "2015-06-23", "desc": "POS Withdrawal - RANDALLS STORE 2485 2025 W  BEN WHITE BLVD AUSTIN       TXUS - Card Ending In 7090", "amount":-7.0 }
+{ "date": "2015-06-23", "desc": "POS Withdrawal - 694453 TRADER JOE'S  #        AUSTIN       TXUS - Card Ending In 7090", "amount":-4.32 }
+{ "date": "2015-06-24", "desc": "ATM Withdrawal - SALT LICK #3 T 18300 FM 1826          DRIFTWOOD    TXUS - Card Ending In 7090", "amount":-82.0 }
+{ "date": "2015-06-24", "desc": "POS Withdrawal - EMERIL'S RESTAURANT OR 6000 UNIVERSAL BLVD    ORLANDO      F - Card Ending In 2000", "amount":-43.55 }
+{ "date": "2015-06-24", "desc": "POS Withdrawal - TIGER TRUCK STOP 76730 GARNER LANE      GROSSE TETE  LAUS - Card Ending In 7090", "amount":-43.38 }
+{ "date": "2015-06-24", "desc": "External Withdrawal - FCU  -  CV", "amount":-19.79 }
+{ "date": "2015-06-25", "desc": "POS Withdrawal - 542929800038291 ROUSES MARKET # 29     NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-41.95 }
+{ "date": "2015-06-25", "desc": "POS Withdrawal - EXXONMOBIL    47856307 2061 HWY 71            CEDAR CREEK  T - Card Ending In 7090", "amount":-41.9 }
+{ "date": "2015-06-25", "desc": "POS Withdrawal - JR GRILL & MARKET LLC 9036A AIRPORT BLVD     ORLANDO      FL - Card Ending In 2000", "amount":-35.88 }
+{ "date": "2015-06-25", "desc": "POS Withdrawal - ABM PARKING AUSTIN BER 2901 EMPLOYEE AVE      AUSTIN       T - Card Ending In 7090", "amount":-3.0 }
+{ "date": "2015-06-25", "desc": "POS Withdrawal - 542929800038291 ROUSES MARKET # 29     NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-1.35 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - WINN-DIXIE GROCERY #14 401 N CARROLLTON AVE   NEW ORLEANS  L - Card Ending In 7090", "amount":-238.05 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - HAUNTEDHIST 7700 EASTPORT PARKWAY  5048612727   LAUS - Card Ending In 2000", "amount":-104.0 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - M NAILS 12376 STATE ROAD 535   ORLANDO      FLUS - Card Ending In 2000", "amount":-47.0 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - SHELL OIL 575298809QPS 13725 S APOPKA VINELANDORLANDO      F - Card Ending In 2000", "amount":-28.93 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - MCDONALD'S F4802 3611 NORTH MAIN        HOUSTON      TXUS - Card Ending In 7090", "amount":-15.01 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-10.65 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - TIGER TRUCK STOP 76730 GARNER LANE      GROSSE TETE  LAUS - Card Ending In 7090", "amount":-5.94 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - MCDONALD'S F4802 3611 NORTH MAIN        HOUSTON      TXUS - Card Ending In 7090", "amount":-5.41 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - 542929800096307 ROUSES MARKET # 30     NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-5.08 }
+{ "date": "2015-06-26", "desc": "POS Withdrawal - MCDONALD'S F4802 3611 NORTH MAIN        HOUSTON      TXUS - Card Ending In 7090", "amount":-2.15 }
+{ "date": "2015-06-27", "desc": "ATM Withdrawal - ULTRON PROCESSI HARRAH'S NEW ORLEANS   NEW ORLEANS  LAUS - Card Ending In 2000", "amount":-405.99 }
+{ "date": "2015-06-27", "desc": "POS Withdrawal - NEW ORLEANS CC  CONC 900 Convention Center BNEW ORLEANS  LAU - Card Ending In 2000", "amount":-38.0 }
+{ "date": "2015-06-27", "desc": "POS Withdrawal - NEW ORLEANS CC  CONC 900 Convention Center BNEW ORLEANS  LAU - Card Ending In 2000", "amount":-13.25 }
+{ "date": "2015-06-27", "desc": "POS Withdrawal - SOUTHWESTAIR*INFLIGHT 2702 Love Field Dr     DALLAS       TX - Card Ending In 2000", "amount":-5.0 }
+{ "date": "2015-06-27", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":100.0 }
+{ "date": "2015-06-27", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":240.0 }
+{ "date": "2015-06-27", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":400.0 }
+{ "date": "2015-06-28", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":300.0 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - MURIEL'S JACKSON SQUAR 801 CHARTRES ST        NEW ORLEANS  L - Card Ending In 2000", "amount":-178.35 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-72.0 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - IN *4-1 EM2 SPORTS 4401 FREIDRICH LANE BLD512-4567726  TXUS - Card Ending In 2000", "amount":-65.4 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-48.0 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - NEW ORLEANS CC  CONC 900 Convention Center BNEW ORLEANS  LAU - Card Ending In 2000", "amount":-23.75 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - AMZN RENTAL LATE FEE 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-21.8 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - GOPARK LOT #5 414 Canal Street       NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-13.0 }
+{ "date": "2015-06-29", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-10.87 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - CAFE BEIGNET I 334 B ROYAL ST         NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-8.76 }
+{ "date": "2015-06-29", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-8.65 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - NEW ORLEANS CC  CONC 900 Convention Center BNEW ORLEANS  LAU - Card Ending In 2000", "amount":-8.5 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - NEW ORLEANS PARKING ME 165 ROOSEVELT WAY      NEW ORLEANS  L - Card Ending In 7090", "amount":-3.0 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - NEW ORLEANS PARKING ME 165 ROOSEVELT WAY      NEW ORLEANS  L - Card Ending In 7090", "amount":-3.0 }
+{ "date": "2015-06-29", "desc": "POS Withdrawal - GOOGLE *Google Storage 1600 Amphitheatre Pkwy GOOGLE.COM/CHC - Card Ending In 7090", "amount":-2.12 }
+{ "date": "2015-06-29", "desc": "Deposit - Mobile Banking", "amount":45.42 }
+{ "date": "2015-06-29", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":90.0 }
+{ "date": "2015-06-29", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":200.0 }
+{ "date": "2015-06-30", "desc": "ATM Withdrawal - ULTRON PROCESSI HARRAH'S NEW ORLEANS   NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-205.99 }
+{ "date": "2015-06-30", "desc": "POS Withdrawal - PONTCHARTRAIN LANDING 6001 FRANCE RD         NEW ORLEANS  LA - Card Ending In 7090", "amount":-181.78 }
+{ "date": "2015-06-30", "desc": "POS Withdrawal - LUCKY PIERRES 735 BOURBON ST         NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-42.0 }
+{ "date": "2015-06-30", "desc": "POS Withdrawal - WM SUPERCENTER # Wal-Mart Super Center  NEW ORLEANS  LAUS - Card Ending In 2000", "amount":-34.46 }
+{ "date": "2015-06-30", "desc": "POS Withdrawal - LUCKY PIERRES 735 BOURBON ST         NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-14.0 }
+{ "date": "2015-06-30", "desc": "POS Withdrawal - BASIN LOT 1205 ST LOUIS STREET   NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-06-30", "desc": "POS Withdrawal - BASIN LOT 1205 ST LOUIS STREET   NEW ORLEANS  LAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - BATON ROUGE ZOO ADMIN 3601 THOMAS RD         BATON ROUGE  LA - Card Ending In 2000", "amount":-57.75 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - 87784 FLYING J #735          ORANGE       TXUS - Card Ending In 2000", "amount":-40.21 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - MCDONALD'S F24966 5700 S. CICERO CB-7    CHICAGO      ILUS - Card Ending In 7090", "amount":-14.64 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - HRUSKAS CHEVRON/HRUSKAS        ELLINGER     TXUS - Card Ending In 2000", "amount":-13.2 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - HRUSKAS CHEVRON/HRUSKAS        ELLINGER     TXUS - Card Ending In 2000", "amount":-9.04 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - BATON ROUGE ZOO SOUVEN 3601 THOMAS RD         BATON ROUGE  L - Card Ending In 2000", "amount":-7.07 }
+{ "date": "2015-07-01", "desc": "POS Withdrawal - NEW ORLEANS PARKING ME 165 ROOSEVELT WAY      NEW ORLEANS  L - Card Ending In 7090", "amount":-1.75 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - SUPER 8 1931 EAST FREEWAY      BAYTOWN      TXUS - Card Ending In 2000", "amount":-147.4 }
+{ "date": "2015-07-02", "desc": "ATM Withdrawal - RBFCU 1040 ROB SHELTON BLVD  DRIPING SPNGSTXUS - Card Ending In 2000", "amount":-120.0 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - STEAMBOAT'S ON THE LAK 1004 N LAKESHORE DR    LAKE CHARLES L - Card Ending In 2000", "amount":-107.19 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - HOTELTONIGHT 901 MARKET STREET SUIT8002082949   CAUS - Card Ending In 7090", "amount":-85.0 }
+{ "date": "2015-07-02", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-60.0 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - BIG EASY TRA* 5000 Old Gentilly Rd.  NEW ORLEANS  LAUS - Card Ending In 2000", "amount":-45.86 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - BYRNES PUB 1248 W 3rd Ave         COLUMBUS     OHUS - Card Ending In 7090", "amount":-32.58 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - FLAVORS OF INDIA 59 SPRUCE ST           COLUMBUS     OHUS - Card Ending In 7090", "amount":-28.73 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - TACO BELL #24768 500 W AIRLINE HWY.     LA PLACE     LAUS - Card Ending In 2000", "amount":-28.62 }
+{ "date": "2015-07-02", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - PONTCHARTRAIN LANDING 6001 FRANCE RD         NEW ORLEANS  LA - Card Ending In 2000", "amount":-6.53 }
+{ "date": "2015-07-02", "desc": "POS Withdrawal - CREDIT CARD METER REVE 2700 IMPOUND LOT ROAD  COLUMBUS     O - Card Ending In 7090", "amount":-0.75 }
+{ "date": "2015-07-02", "desc": "Deposit - Mobile Banking", "amount":329.47 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - HEB  #611 598 EAST HWY US 290    DRIPPING SPRITXUS - Card Ending In 2000", "amount":-116.1 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - BUCA DI BEPPO-COLUMBUS 343 NORTH FRONT STREET COLUMBUS     O - Card Ending In 7090", "amount":-68.69 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - KROGER 2913 OLENTANGY         COLUMBUS     OHUS - Card Ending In 7090", "amount":-30.97 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - MILL RUN MOVIE TAV 3773 RIDGE MILL DR     HILLIARD     OHUS - Card Ending In 7090", "amount":-11.0 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - COLUMBUS CONV CENT CON 400 NORTH HIGH ST      COLUMBUS     O - Card Ending In 7090", "amount":-10.5 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - CVS/PHARMACY #07607 13510 W HWY 290        AUSTIN       TXUS - Card Ending In 2000", "amount":-10.0 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - BACKBLAZE BACKUP 7700 EASTPORT PARKWAY  6503523738   CAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-07-03", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MATTH 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-07-03", "desc": "Dividend/Interest", "amount":0.05 }
+{ "date": "2015-07-04", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    512-861-7060 T - Card Ending In 2000", "amount":-58.75 }
+{ "date": "2015-07-04", "desc": "POS Withdrawal - MILL RUN MOVIE TAV 3773 RIDGE MILL DR     HILLIARD     OHUS - Card Ending In 7090", "amount":-21.54 }
+{ "date": "2015-07-04", "desc": "POS Withdrawal - PANDA EXPRESS 1523 2044 NORTH HIGH STREET COLUMBUS     OHUS - Card Ending In 7090", "amount":-18.06 }
+{ "date": "2015-07-04", "desc": "POS Withdrawal - COLUMBUS CONV CENT CON 400 NORTH HIGH ST      COLUMBUS     O - Card Ending In 7090", "amount":-5.5 }
+{ "date": "2015-07-04", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MARNI 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-07-04", "desc": "POS Withdrawal - CREDIT CARD METER REVE 2700 IMPOUND LOT ROAD  COLUMBUS     O - Card Ending In 7090", "amount":-1.75 }
+{ "date": "2015-07-05", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-07-05", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-07-06", "desc": "Withdrawal - Shared Branch 5029 KYLE CENTER DR     KYLE          TX", "amount":-350.0 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - 102866929970 AMERICAN 7645 E 63RD ST         COLUMBUS     OH - Card Ending In 7090", "amount":-50.0 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-41.8 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - AMERICAN FIREWORKS 1315 HWY 71 W          BASTROP      TXUS - Card Ending In 2000", "amount":-37.65 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - DOUBLE COMFORT LLC 505 N HIGH ST          COLUMBUS     OHUS - Card Ending In 7090", "amount":-37.18 }
+{ "date": "2015-07-06", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-34.94 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - MAX&ERMA'S 1317 N HAMILTON RD     GAHANNA      OHUS - Card Ending In 7090", "amount":-28.9 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - ALAMO DRAFTHOU00002469 5701 SLAUGHTER LANE    AUSTIN       T - Card Ending In 2000", "amount":-20.14 }
+{ "date": "2015-07-06", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-07-06", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - GREAT AMER BAG22631329 10000 WEST OHARE WAY   CHICAGO      I - Card Ending In 7090", "amount":-16.99 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - EXXONMOBIL    97671127 1773 E 5TH AVE         COLUMBUS     O - Card Ending In 7090", "amount":-13.89 }
+{ "date": "2015-07-06", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-13.0 }
+{ "date": "2015-07-06", "desc": "POS Withdrawal - APPLEBEES 877598287758 480 ACKERMAN RD        COLUMBUS     O - Card Ending In 7090", "amount":-9.82 }
+{ "date": "2015-07-06", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-8.6 }
+{ "date": "2015-07-06", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-4.0 }
+{ "date": "2015-07-06", "desc": "POS Deposit - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 2000", "amount":11.75 }
+{ "date": "2015-07-06", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":20.0 }
+{ "date": "2015-07-06", "desc": "Deposit - Mobile Banking", "amount":20.0 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-104.5 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-57.61 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - HUNAN LION 4006 S LAMAR SUITE 1000AUSTIN       TXUS - Card Ending In 2000", "amount":-49.08 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - SQ *TRAVIS AUTO GROUP 1958-2342 East Highway Dripping SpriTX - Card Ending In 7090", "amount":-42.21 }
+{ "date": "2015-07-07", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-27.0 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-25.99 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          866-216-1072 W - Card Ending In 7090", "amount":-5.33 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-4.91 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - AMAZONDIGITALSVCS 440 TERRY AVE N        866-216-1072 WAUS - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-07-07", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          866-216-1072 W - Card Ending In 7090", "amount":-3.19 }
+{ "date": "2015-07-07", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":70.0 }
+{ "date": "2015-07-07", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":500.0 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - XXXXXXXXXX86 O'REILLY AUTO PARTS 49 AUSTIN       TXUS - Card Ending In 7090", "amount":-125.31 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - IPIC THEATERS AUSTIN 3225 AMY DONOVAN PLZ   512-568-3400 TXU - Card Ending In 2000", "amount":-72.0 }
+{ "date": "2015-07-08", "desc": "External Withdrawal - FCU  -  Cr", "amount":-70.0 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - PAPAYA CLOTHING TXQ 11010 DOMAIN DR STE 100AUSTIN       TXUS - Card Ending In 7090", "amount":-68.26 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-37.61 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-35.0 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - HILL COUNTRY PIZZE 598 E US 290 #250      DRIPPINGS    TXUS - Card Ending In 2000", "amount":-27.17 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - 878813 HEB #227               AUSTIN       TXUS - Card Ending In 7090", "amount":-26.11 }
+{ "date": "2015-07-08", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-07-08", "desc": "POS Withdrawal - JACK IN THE BOX #0907 1151 AIRPORT BLVD      AUSTIN       TX - Card Ending In 7090", "amount":-7.0 }
+{ "date": "2015-07-08", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":15.0 }
+{ "date": "2015-07-08", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":20.0 }
+{ "date": "2015-07-09", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-98.39 }
+{ "date": "2015-07-09", "desc": "POS Withdrawal - IPIC AUSTIN F&B 3225 AMY DONOVAN PLZ   AUSTIN       TXUS - Card Ending In 2000", "amount":-74.96 }
+{ "date": "2015-07-09", "desc": "POS Withdrawal - JUNIOR VOLLEYBALL ASSO 425 WOODWARD STREET    05124798776  T - Card Ending In 2000", "amount":-50.0 }
+{ "date": "2015-07-09", "desc": "POS Withdrawal - IPIC AUSTIN F&B 3225 AMY DONOVAN PLZ   AUSTIN       TXUS - Card Ending In 2000", "amount":-25.18 }
+{ "date": "2015-07-09", "desc": "External Withdrawal - FCU  -  Ca", "amount":-25.0 }
+{ "date": "2015-07-09", "desc": "POS Withdrawal - GOODWILL 1235 BRODIE 9801 BRODIE LANE       AUSTIN       TXU - Card Ending In 7090", "amount":-14.46 }
+{ "date": "2015-07-09", "desc": "POS Withdrawal - IPIC AUSTIN F&B 3225 AMY DONOVAN PLZ   AUSTIN       TXUS - Card Ending In 7090", "amount":-13.82 }
+{ "date": "2015-07-10", "desc": "POS Withdrawal - XXXXXXXXXX81 OREILLY AUTO PARTS 441 DRIPPING SPRITXUS - Card Ending In 2000", "amount":-67.08 }
+{ "date": "2015-07-10", "desc": "POS Withdrawal - 88513 HEB GAS-CAR WAS        DRIPPING SPR TXUS - Card Ending In 7090", "amount":-65.84 }
+{ "date": "2015-07-10", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-07-10", "desc": "POS Withdrawal - 682723007912 DELTA 1020 DELTA BLVD        AUSTIN       TXUS - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-07-10", "desc": "POS Withdrawal - 682725003380 DELTA 1020 DELTA BLVD        AUSTIN       TXUS - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-07-10", "desc": "POS Withdrawal - NST THE HOME DEPOT 730845 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-8.63 }
+{ "date": "2015-07-10", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-8.47 }
+{ "date": "2015-07-10", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":500.0 }
+{ "date": "2015-07-11", "desc": "POS Withdrawal - TONY C'S COAL FIRED PI 12800 HILL COUNTRY BLVDBEE CAVE     T - Card Ending In 2000", "amount":-71.58 }
+{ "date": "2015-07-11", "desc": "POS Withdrawal - RANDALLS STORE 185 9911 BRODIE LANE       AUSTIN       TXUS - Card Ending In 7090", "amount":-53.99 }
+{ "date": "2015-07-11", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-47.91 }
+{ "date": "2015-07-11", "desc": "POS Withdrawal - OLD NAVY ON-LINE 5900 N MEADOWS DR      800-OLDNAVY  OHUS - Card Ending In 2000", "amount":-33.06 }
+{ "date": "2015-07-12", "desc": "POS Withdrawal - RANDALLS STORE 2485 2025 W  BEN WHITE BLVD AUSTIN       TXUS - Card Ending In 2000", "amount":-93.32 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - CHEVRON 0210247 3909 SOUTH CONGRESS AVEAUSTIN       TXUS - Card Ending In 7090", "amount":-43.54 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - SQ *MICHAEL MCKELVEY 3839 Airport Boulevard Austin       TXU - Card Ending In 2000", "amount":-20.0 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - SUBWAY        03011137 2315 SOUTH CONGRESS    AUSTIN       T - Card Ending In 2000", "amount":-17.1 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 204 Ben White          AUSTIN       T - Card Ending In 7090", "amount":-6.28 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - MOONTOWER SALOON FOOD 10212 MANCHACA RD      AUSTIN       TX - Card Ending In 7090", "amount":-6.0 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - XXXXXXXXXX81 OREILLY AUTO PARTS 441 DRIPPING SPRITXUS - Card Ending In 2000", "amount":-5.39 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - MCDONALD'S F10125 2114 SLAUGHTER LN      AUSTIN       TXUS - Card Ending In 7090", "amount":-4.75 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-07-13", "desc": "POS Withdrawal - NAPA AUTO PARTS 000382 3820 S CONGRESS AVE    AUSTIN       T - Card Ending In 7090", "amount":-2.15 }
+{ "date": "2015-07-13", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":70.0 }
+{ "date": "2015-07-14", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-98.93 }
+{ "date": "2015-07-14", "desc": "External Withdrawal - FCU  -  Rx", "amount":-70.0 }
+{ "date": "2015-07-14", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-45.08 }
+{ "date": "2015-07-14", "desc": "POS Withdrawal - TXTAG 888 468 9824 12719 BURNET RD        888-4689824  TXUS - Card Ending In 7090", "amount":-40.0 }
+{ "date": "2015-07-14", "desc": "External Withdrawal - FCU  -  Rx", "amount":-24.09 }
+{ "date": "2015-07-14", "desc": "External Withdrawal - FCU  -  ur", "amount":-20.0 }
+{ "date": "2015-07-14", "desc": "POS Withdrawal - WALGREENS 27495 RANCH ROAD 12    DRIPPING SPRITXUS - Card Ending In 2000", "amount":-18.59 }
+{ "date": "2015-07-14", "desc": "POS Withdrawal - 67107022949 THE HOME DEPOT 8995    DRIPPING SPRITXUS - Card Ending In 7090", "amount":-2.55 }
+{ "date": "2015-07-14", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":200.0 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-206.14 }
+{ "date": "2015-07-15", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-93.96 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-12.14 }
+{ "date": "2015-07-15", "desc": "IAT Withdrawal - IAT PAYPAL  J22222572DE3C  SKYPE COMMUNICATIONS SARL", "amount":-10.0 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-8.61 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-5.65 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-4.79 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-3.51 }
+{ "date": "2015-07-15", "desc": "POS Withdrawal - MCDONALD'S F27395 333 W HWY 290 EAST     DRIPPING SPRITXUS - Card Ending In 7090", "amount":-2.7 }
+{ "date": "2015-07-15", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":75.0 }
+{ "date": "2015-07-16", "desc": "POS Withdrawal - CORNER STORE 1318 13810 SAWYER RANCH RD  DRIPPING SPRITXUS - Card Ending In 7090", "amount":-45.28 }
+{ "date": "2015-07-16", "desc": "POS Withdrawal - DRIPPING SPRINGS DENTA 2150 HWY 290 E         DRIPPING SPRIT - Card Ending In 2000", "amount":-40.0 }
+{ "date": "2015-07-16", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-23.3 }
+{ "date": "2015-07-16", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-10.37 }
+{ "date": "2015-07-16", "desc": "POS Withdrawal - WAVES CAR WASH 2 13543 W US HWY 290     AUSTIN       TXUS - Card Ending In 2000", "amount":-6.0 }
+{ "date": "2015-07-16", "desc": "POS Deposit - OREILLY AUTO  00044172 604 US HWY 290 WEST    DRIPPING SPRIT - Card Ending In 7090", "amount":3.24 }
+{ "date": "2015-07-16", "desc": "POS Deposit - OREILLY AUTO  00044172 604 US HWY 290 WEST    DRIPPING SPRIT - Card Ending In 7090", "amount":17.31 }
+{ "date": "2015-07-17", "desc": "POS Withdrawal - 425031427999 TREEHOUSE GIFT SHOP    AUSTIN       TXUS - Card Ending In 2000", "amount":-27.02 }
+{ "date": "2015-07-17", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-26.68 }
+{ "date": "2015-07-17", "desc": "POS Withdrawal - HILL COUNTRY PIZZE 598 E US 290 #250      DRIPPINGS    TXUS - Card Ending In 7090", "amount":-13.8 }
+{ "date": "2015-07-17", "desc": "POS Withdrawal - USPS 4804159551 6104 OLD FREDERICKSBURGAUSTIN       TXUS - Card Ending In 7090", "amount":-12.7 }
+{ "date": "2015-07-17", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-5.22 }
+{ "date": "2015-07-17", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":74.51 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - NST THE HOME DEPOT 931807 1200 HOME DEPOT BLVD   SUNSET VALL - Card Ending In 7090", "amount":-108.85 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - XXXXXXXXXX89 HARBOR FREIGHT TOOLS U AUSTIN       TXUS - Card Ending In 7090", "amount":-106.05 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - TRUDY'S FOUR STAR 13059 FOUR STAR BLVD.  AUSTIN       TXUS - Card Ending In 2000", "amount":-83.44 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-74.51 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - AMZ*FrankCas5127623339 809 LAMBETH LN         AUSTIN       T - Card Ending In 7090", "amount":-45.0 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - CHIPOTLE 0973 1201 BARBARA JORDAN BLVAUSTIN       TXUS - Card Ending In 2000", "amount":-43.52 }
+{ "date": "2015-07-18", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - V & V LIQUOR 11720 FM 1826 SUITE 104AUSTIN       TXUS - Card Ending In 7090", "amount":-17.31 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 2000", "amount":-16.5 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - 287518 E Z FOOD STORES        AUSTIN       TXUS - Card Ending In 2000", "amount":-15.79 }
+{ "date": "2015-07-18", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-07-18", "desc": "POS Withdrawal - CHIPOTLE 0973 1201 BARBARA JORDAN BLVAUSTIN       TXUS - Card Ending In 2000", "amount":-4.49 }
+{ "date": "2015-07-19", "desc": "POS Withdrawal - WM SUPERCENTER # Wal-Mart Super Center  AUSTIN       TXUS - Card Ending In 2000", "amount":-10.52 }
+{ "date": "2015-07-19", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":140.0 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - WAL Wal-Mart Super 342443 2935 WAL-SAMS          KNOXVILLE   - Card Ending In 2000", "amount":-148.34 }
+{ "date": "2015-07-20", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-122.29 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - THE VENUE 3991 E Highway 290     DRIPPING SPRITXUS - Card Ending In 7090", "amount":-60.91 }
+{ "date": "2015-07-20", "desc": "ATM Withdrawal - SALT LICK #1 T 18300 FM 1826          DRIFTWOOD    TXUS - Card Ending In 7090", "amount":-42.0 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - ALAMO DRAFTHOU00002469 5701 SLAUGHTER LANE    AUSTIN       T - Card Ending In 2000", "amount":-29.99 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 4228 William Cannon Dr.AUSTIN       T - Card Ending In 2000", "amount":-20.46 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - GP*MC3 BREWING LLC 207 MERCER STREET      DRIPPING SPRITXUS - Card Ending In 2000", "amount":-19.5 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - HY VEE GAS 5148 4701 FLEUR DR          DES MOINES   IAUS - Card Ending In 2000", "amount":-10.97 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - JASON'S DELI # 125 Q64 9600 S. I-35 SVC RD SB AUSTIN       T - Card Ending In 2000", "amount":-9.83 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - GP*MC3 BREWING LLC 207 MERCER STREET      DRIPPING SPRITXUS - Card Ending In 7090", "amount":-9.51 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - CHIPOTLE 0346 5400 BRODIE LN STE 1230AUSTIN       TXUS - Card Ending In 7090", "amount":-8.97 }
+{ "date": "2015-07-20", "desc": "POS Withdrawal - GP*MC3 BREWING LLC 207 MERCER STREET      DRIPPING SPRITXUS - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-41.74 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - THE CORNERSTONE 617 Franklin St Ste 101Pella        IAUS - Card Ending In 2000", "amount":-31.03 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-25.96 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - WINDMILL MALL 637 FRANKLIN ST        PELLA        IAUS - Card Ending In 2000", "amount":-20.87 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - STARBUCKS B09 20251518 ROUND BUILDING 6 OHARE CHICAGO      I - Card Ending In 2000", "amount":-19.12 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-17.27 }
+{ "date": "2015-07-21", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - WINDMILL CAFE 709 Franklin St        PELLA        IAUS - Card Ending In 2000", "amount":-10.43 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - LTV/UNITED INFLIGHT TV 700 S BABCOCK ST STE 30MELBOURNE    F - Card Ending In 2000", "amount":-7.99 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - LTV/UNITED INFLIGHT TV 700 S BABCOCK ST STE 30MELBOURNE    F - Card Ending In 2000", "amount":-7.99 }
+{ "date": "2015-07-21", "desc": "POS Withdrawal - REDBOX *DVD RENTAL 1 Tower Lane Ste 1200  OAKBROOK TER ILUS - Card Ending In 2000", "amount":-1.61 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - WM SUPERCENTER # Wal-Mart Super Center  BUDA         TXUS - Card Ending In 7090", "amount":-121.35 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal -  CHEVRON/PLUM CREEK RETAKYLE         TXUS - Card Ending In 7090", "amount":-68.6 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-47.96 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - BUZZARD BILLYS 615 3rd St             DES MOINES   IAUS - Card Ending In 2000", "amount":-41.04 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - JOSEPH VOLLEYBALL CAMP 6155 FOUNTAIN VALLEY SCCOLORADO SPRIC - Card Ending In 2000", "amount":-36.0 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - SPAGHETTI WORKS DES MO 310 COURT AVE          DES MOINES   I - Card Ending In 2000", "amount":-34.54 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - MARRIOTT 33755 F&B 700 GRAND AVENUE       DES MOINES   IAUS - Card Ending In 2000", "amount":-25.32 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - FRANKLIN STREET CLOTHI 612 FRANKLIN ST        PELLA        I - Card Ending In 2000", "amount":-14.97 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - VETS HY VEE 833 5TH AVE            DES MOINES   IAUS - Card Ending In 2000", "amount":-9.0 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - SMOKEY ROW COFFEE - 2 639 FRANKLIN ST        PELLA        IA - Card Ending In 2000", "amount":-7.05 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - JOHNNYS HALL OF FAME 302 COURT AVENUE       DES MOINES   IAU - Card Ending In 2000", "amount":-4.5 }
+{ "date": "2015-07-22", "desc": "POS Withdrawal - MCDONALD'S F4941 1209 BARTON SPRINGS    AUSTIN       TXUS - Card Ending In 7090", "amount":-2.17 }
+{ "date": "2015-07-23", "desc": "ATM Withdrawal - MARRIOTT 700 GRAND AVE          DES MOINES   IAUS - Card Ending In 2000", "amount":-42.0 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - SQC*512 BEACH 1455 MARKET ST         04153753176  CAUS - Card Ending In 7090", "amount":-25.0 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - MARRIOTT 33755 F&B 700 GRAND AVENUE       DES MOINES   IAUS - Card Ending In 2000", "amount":-24.66 }
+{ "date": "2015-07-23", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - PRINCIPAL PK IA CUB CO ONE LINE DRIVE         DES MOINES   I - Card Ending In 2000", "amount":-16.0 }
+{ "date": "2015-07-23", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-15.22 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - BUZZARD BILLYS 615 3rd St             DES MOINES   IAUS - Card Ending In 2000", "amount":-12.37 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - MARRIOTT 33755 F&B 700 GRAND AVENUE       DES MOINES   IAUS - Card Ending In 2000", "amount":-8.5 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - PRINCIPAL PK IA CUB CO ONE LINE DRIVE         DES MOINES   I - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - PRINCIPAL PK IA CUB CO ONE LINE DRIVE         DES MOINES   I - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-07-23", "desc": "POS Withdrawal - BURGER KING #17718 Q07 15705 S IH-35          BUDA         T - Card Ending In 7090", "amount":-4.08 }
+{ "date": "2015-07-24", "desc": "POS Withdrawal - DRAKE DINER LLC 1111 25TH ST           DES MOINES   IAUS - Card Ending In 2000", "amount":-31.52 }
+{ "date": "2015-07-24", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-21.48 }
+{ "date": "2015-07-24", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-6.99 }
+{ "date": "2015-07-24", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-6.11 }
+{ "date": "2015-07-24", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-5.72 }
+{ "date": "2015-07-24", "desc": "POS Withdrawal - PRINCIPAL PK IA CUB CO ONE LINE DRIVE         DES MOINES   I - Card Ending In 2000", "amount":-4.0 }
+{ "date": "2015-07-25", "desc": "POS Withdrawal - JOSEPH VOLLEYBALL CAMP 6155 FOUNTAIN VALLEY SCCOLORADO SPRIC - Card Ending In 2000", "amount":-36.0 }
+{ "date": "2015-07-25", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-23.0 }
+{ "date": "2015-07-25", "desc": "POS Withdrawal - 240 WELLS FARGO ARENA 233 CENTER STREET      DES MOINES   IA - Card Ending In 2000", "amount":-19.5 }
+{ "date": "2015-07-25", "desc": "POS Withdrawal - 221181567993 ADVANCE STORES CO INC  BEE CAVE     TXUS - Card Ending In 7090", "amount":-14.06 }
+{ "date": "2015-07-25", "desc": "POS Withdrawal - 240 WELLS FARGO ARENA 233 CENTER STREET      DES MOINES   IA - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-07-25", "desc": "POS Withdrawal - VETS HY VEE 833 5TH AVE            DES MOINES   IAUS - Card Ending In 2000", "amount":-5.0 }
+{ "date": "2015-07-26", "desc": "ATM Withdrawal - ATMS IN MOTION 5610 WESTRIDGE CT      WEST DES MOINIAUS - Card Ending In 2000", "amount":-63.0 }
+{ "date": "2015-07-26", "desc": "POS Withdrawal - NST THE HOME DEPOT 462053 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-58.38 }
+{ "date": "2015-07-26", "desc": "ATM Withdrawal - MARRIOTT 700 GRAND AVE          DES MOINES   IAUS - Card Ending In 2000", "amount":-42.0 }
+{ "date": "2015-07-26", "desc": "POS Withdrawal - NST THE HOME DEPOT 230876 1200 HOME DEPOT BLVD   SUNSET VALL - Card Ending In 7090", "amount":-13.22 }
+{ "date": "2015-07-26", "desc": "POS Withdrawal - WAL Wal-Mart Super 221189 2133 WAL-SAMS          AUSTIN (MID - Card Ending In 7090", "amount":-8.12 }
+{ "date": "2015-07-26", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":650.0 }
+{ "date": "2015-07-27", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-74.75 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - MARRIOTT 33755 F&B 700 GRAND AVENUE       DES MOINES   IAUS - Card Ending In 2000", "amount":-52.0 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - 13501049 KOHL'S #0 3800 MERLE H DES MOINES   IAUS - Card Ending In 2000", "amount":-23.32 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - ZOMBIE BURGER 300 E GRAND ST STE 100 DES MOINES   IAUS - Card Ending In 2000", "amount":-23.0 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-17.0 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - JOHNNYS BLANK PARK ZOO 6800 FLEUR DR          DES MOINES   I - Card Ending In 2000", "amount":-15.9 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - MARRIOTT 33755 F&B 700 GRAND AVENUE       DES MOINES   IAUS - Card Ending In 2000", "amount":-11.6 }
+{ "date": "2015-07-27", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-8.65 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - USA*FANTASY PHOTO BOOT 7401 SW 9TH STREET     DES MOINES   I - Card Ending In 2000", "amount":-5.0 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - UNIGUEST 1035 ACORN DRIVE       NASHVILLE    TNUS - Card Ending In 2000", "amount":-5.0 }
+{ "date": "2015-07-27", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 3311 RANCH ROAD 620    AUSTIN       T - Card Ending In 7090", "amount":-4.28 }
+{ "date": "2015-07-27", "desc": "External Deposit - PAYPAL TRANSFER - TRANSFER", "amount":122.29 }
+{ "date": "2015-07-27", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":408.71 }
+{ "date": "2015-07-28", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-408.71 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - NST THE HOME DEPOT 362732 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-87.83 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - CVS 07607 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-66.97 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - DSM IOWA TAP RM DSM 5800 Fleur Drive   DES MOINES   IAUS - Card Ending In 2000", "amount":-37.8 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - FLIX BREWHOUSE 3800 MERLE HAY RD STE 3DES MOINES   IAUS - Card Ending In 2000", "amount":-18.06 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - FLIX BREWHOUSE 3800 MERLE HAY RD STE 3DES MOINES   IAUS - Card Ending In 2000", "amount":-13.5 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - BLANK PARK ZOO 7401 SW 9TH STREET     DES MOINES   IAUS - Card Ending In 2000", "amount":-12.0 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - 408355 SOUTHRIDGE 12 6720 SE 14TH ST        DES MOINES   IAU - Card Ending In 2000", "amount":-12.0 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - 408355 SOUTHRIDGE 12 6720 SE 14TH ST        DES MOINES   IAU - Card Ending In 2000", "amount":-11.5 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - DSM IOWA TAP RM DSM 5800 Fleur Drive   DES MOINES   IAUS - Card Ending In 2000", "amount":-10.54 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-7.33 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - CHICKEN EXPRESS DRIPPI 230 E US HWY 290       DRIPPING SPRIT - Card Ending In 7090", "amount":-7.09 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - MARRIOTT 33755 F&B 700 GRAND AVENUE       DES MOINES   IAUS - Card Ending In 2000", "amount":-6.7 }
+{ "date": "2015-07-28", "desc": "POS Withdrawal - DAIRY QUEEN #13830 QPS 2034 W STASSNEY LN     AUSTIN       T - Card Ending In 7090", "amount":-2.91 }
+{ "date": "2015-07-28", "desc": "POS Deposit - ADVANCE AUTO PARTS #84 7010 W HWY 71 STE 250  AUSTIN       T - Card Ending In 7090", "amount":14.06 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-66.55 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - CHILIS TOO 3E 20518114 3301 SOUTH 22ND AVE    DALLAS FT WORT - Card Ending In 2000", "amount":-34.31 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-15.78 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-10.66 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - CHICKEN EXPRESS DRIPPI 230 E US HWY 290       DRIPPING SPRIT - Card Ending In 2000", "amount":-4.33 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - ABM PARKING AUSTIN BER 2901 EMPLOYEE AVE      AUSTIN       T - Card Ending In 7090", "amount":-3.0 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-2.98 }
+{ "date": "2015-07-29", "desc": "POS Withdrawal - GOOGLE *Google Storage 1600 Amphitheatre Pkwy GOOGLE.COM/CHC - Card Ending In 7090", "amount":-2.12 }
+{ "date": "2015-07-29", "desc": "POS Deposit -  SQC*                   SQC Cash Tea - Card Ending In 2000", "amount":5.0 }
+{ "date": "2015-07-29", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":150.0 }
+{ "date": "2015-07-29", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":300.0 }
+{ "date": "2015-07-30", "desc": "ATM Withdrawal - A+ FEDERAL CRED 6114 WILLIAM CANNON WE AUSTIN       TXUS - Card Ending In 7090", "amount":-302.25 }
+{ "date": "2015-07-30", "desc": "POS Withdrawal - SQC* CISNERO 1455 MARKET ST         04153753176  CAUS - Card Ending In 2000", "amount":-150.0 }
+{ "date": "2015-07-30", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-45.45 }
+{ "date": "2015-07-30", "desc": "POS Withdrawal - 287518 E Z FOOD STORES        AUSTIN       TXUS - Card Ending In 7090", "amount":-27.41 }
+{ "date": "2015-07-30", "desc": "POS Withdrawal - DSC*DOLLAR SHAVE CLUB 513 Boccaccio Ave      866-2232780  CA - Card Ending In 2000", "amount":-10.0 }
+{ "date": "2015-07-30", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-1.94 }
+{ "date": "2015-07-30", "desc": "Deposit - Mobile Banking", "amount":424.13 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-249.89 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-116.89 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - CVS 00526 526--10550 West ParmeAustin       TXUS - Card Ending In 7090", "amount":-43.64 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-42.27 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - AMSOIL 925 TOWER AVE          08007777094  WIUS - Card Ending In 7090", "amount":-28.65 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - SHELL OIL 57545735706 14403 FM 17826         DRIPPING SPRITX - Card Ending In 2000", "amount":-27.01 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-19.19 }
+{ "date": "2015-07-31", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-12.15 }
+{ "date": "2015-07-31", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":140.0 }
+{ "date": "2015-08-01", "desc": "POS Withdrawal - STARBUCKS #14500 AUSTI 7015 West US Hwy 290   Austin       T - Card Ending In 2000", "amount":-37.75 }
+{ "date": "2015-08-01", "desc": "POS Withdrawal - BURGER KING #18555 Q07 13542 W HIGHWAY 290    AUSTIN       T - Card Ending In 2000", "amount":-6.51 }
+{ "date": "2015-08-01", "desc": "POS Withdrawal - NNT MCCOYS #69     132333 11811 HWY 290 W        AUSTIN      - Card Ending In 7090", "amount":-4.76 }
+{ "date": "2015-08-01", "desc": "POS Deposit - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":4.26 }
+{ "date": "2015-08-01", "desc": "POS Deposit - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":10.66 }
+{ "date": "2015-08-02", "desc": "POS Withdrawal - NST THE HOME DEPOT 630377 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-206.41 }
+{ "date": "2015-08-02", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-08-02", "desc": "POS Deposit - NST THE HOME DEPOT 262015 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":18.96 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - NST THE HOME DEPOT 832736 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-89.25 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - CHIPOTLE 1326 2700 W ANDERSON LN #204AUSTIN       TXUS - Card Ending In 2000", "amount":-18.46 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - NST THE HOME DEPOT 862418 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-15.61 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-14.89 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - ARBYS 0602 4411 S LAMAR BLVD      AUSTIN       TXUS - Card Ending In 2000", "amount":-13.93 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - PANDA EXPRESS #1879 111 UNIVERSITY OAKS BLVROUND ROCK   TXUS - Card Ending In 7090", "amount":-9.09 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - YAGHI'S PIZZERIA 4220 W. WILLAM CANNON DAUSTIN       TXUS - Card Ending In 7090", "amount":-7.56 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 204 Ben White          AUSTIN       T - Card Ending In 2000", "amount":-6.28 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MATTH 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - BACKBLAZE BACKUP 7700 EASTPORT PARKWAY  6503523738   CAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-08-03", "desc": "POS Withdrawal - MCDONALD'S F27395 333 W HWY 290 EAST     DRIPPING SPRITXUS - Card Ending In 7090", "amount":-1.61 }
+{ "date": "2015-08-03", "desc": "POS Deposit - 67107022949 THE HOME DEPOT 8995    DRIPPING SPRITXUS - Card Ending In 7090", "amount":4.82 }
+{ "date": "2015-08-03", "desc": "POS Deposit - NST THE HOME DEPOT 132271 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":17.26 }
+{ "date": "2015-08-03", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":200.0 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - 182203596 TRACTOR S 1711B  W HIG DRIPPING SPRITXUS - Card Ending In 2000", "amount":-201.35 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - VENMO 95 MORTON ST FL 5      08558124430  NYUS - Card Ending In 7090", "amount":-70.0 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-59.28 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - ROUND ROCK SPORTS CENT 221 E Main St.         ROUND ROCK   T - Card Ending In 2000", "amount":-19.5 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-15.36 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - LOWE'S #2513 6400 BRODIE LANE       AUSTIN       TXUS - Card Ending In 7090", "amount":-14.61 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-11.76 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - ROUND ROCK SPORTS CENT 221 E Main St.         ROUND ROCK   T - Card Ending In 2000", "amount":-9.25 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - ROUND ROCK SPORTS CENT 221 E Main St.         ROUND ROCK   T - Card Ending In 2000", "amount":-6.25 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MARNI 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - REDBOX *DVD RENTAL 1 Tower Lane Ste 1200  866-733-2693 ILUS - Card Ending In 2000", "amount":-4.87 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          866-216-1072 W - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-08-04", "desc": "POS Withdrawal - LOWE'S #2513 6400 BRODIE LANE       AUSTIN       TXUS - Card Ending In 7090", "amount":-1.48 }
+{ "date": "2015-08-04", "desc": "POS Deposit - NST THE HOME DEPOT 560503 1200 HOME DEPOT BLVD   SUNSET VALL - Card Ending In 7090", "amount":21.61 }
+{ "date": "2015-08-05", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-60.0 }
+{ "date": "2015-08-05", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-60.0 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - XXXXXXXXXX81 OREILLY AUTO PARTS 441 DRIPPING SPRITXUS - Card Ending In 7090", "amount":-53.55 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-27.99 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - CRAVE AUSTIN 340 E 2ND ST           AUSTIN       TXUS - Card Ending In 2000", "amount":-27.79 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-18.25 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - NST THE HOME DEPOT 761759 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-11.89 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - AUSTIN CONV CENTER PKG 500 E CESAR CHAVEZ     512-404-4059 T - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-7.76 }
+{ "date": "2015-08-05", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-3.3 }
+{ "date": "2015-08-05", "desc": "Deposit - Shared Branch 5011 W SLAUGHTER LN BLD AUSTIN        TX", "amount":1520.0 }
+{ "date": "2015-08-06", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-205.04 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - LONG CENTER FOR PERFOR 701 W RIVERSIDE DR     AUSTIN       T - Card Ending In 2000", "amount":-69.25 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-57.81 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - 979606 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-37.52 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - 182203596 TRACTOR S 1711B  W HIG DRIPPING SPRITXUS - Card Ending In 7090", "amount":-19.47 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - STERLING EVENTS 8423 RESEARCH BLVD     AUSTIN       TXUS - Card Ending In 2000", "amount":-18.5 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-15.0 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - CHICKEN EXPRESS DRIPPI 230 E US HWY 290       DRIPPING SPRIT - Card Ending In 7090", "amount":-14.05 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - TEXACO 0354661     Q61 11720 FM 1826          AUSTIN       T - Card Ending In 7090", "amount":-9.08 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - 979606 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-8.97 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - NST THE HOME DEPOT 932233 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-7.0 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - NST THE HOME DEPOT 630228 1200 HOME DEPOT BLVD   SUNSET VALL - Card Ending In 7090", "amount":-6.34 }
+{ "date": "2015-08-06", "desc": "POS Withdrawal - 67107022949 THE HOME DEPOT 8995    DRIPPING SPRITXUS - Card Ending In 7090", "amount":-2.25 }
+{ "date": "2015-08-06", "desc": "POS Deposit - 67107015265 THE HOME DEPOT 6570    SUNSET VALLEYTXUS - Card Ending In 7090", "amount":4.85 }
+{ "date": "2015-08-06", "desc": "POS Deposit - NST THE HOME DEPOT 060686 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":5.23 }
+{ "date": "2015-08-06", "desc": "POS Deposit - 182203596 TRACTOR S 1711B  W HIG DRIPPING SPRITXUS - Card Ending In 7090", "amount":19.47 }
+{ "date": "2015-08-06", "desc": "Deposit - Shared Branch 5011 W SLAUGHTER LN BLD AUSTIN        TX", "amount":205.04 }
+{ "date": "2015-08-07", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-142.4 }
+{ "date": "2015-08-07", "desc": "ATM Withdrawal - P262734 2400 RIO GRANDE STREET AUSTIN       TXUS - Card Ending In 2000", "amount":-122.5 }
+{ "date": "2015-08-07", "desc": "POS Withdrawal - BUFFALO EXCHANGE TX01 2904 GUADALUPE ST      AUSTIN       TX - Card Ending In 2000", "amount":-111.0 }
+{ "date": "2015-08-07", "desc": "POS Withdrawal - DRIPPING SPRINGS DENTA 2150 HWY 290 E         DRIPPING SPRIT - Card Ending In 2000", "amount":-50.0 }
+{ "date": "2015-08-07", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-40.0 }
+{ "date": "2015-08-07", "desc": "POS Withdrawal - AMAZON VIDEO ON DEMAND 440 TERRY AVE N        866-216-1072 W - Card Ending In 7090", "amount":-21.34 }
+{ "date": "2015-08-07", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          866-216-1072 W - Card Ending In 7090", "amount":-19.2 }
+{ "date": "2015-08-07", "desc": "POS Withdrawal - HILL COUNTRY PIZZE 598 E US 290 #250      DRIPPINGS    TXUS - Card Ending In 2000", "amount":-8.58 }
+{ "date": "2015-08-07", "desc": "Dividend/Interest", "amount":0.06 }
+{ "date": "2015-08-07", "desc": "POS Deposit - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":142.4 }
+{ "date": "2015-08-08", "desc": "ATM Withdrawal - VL741318 Cardtronics CCS1       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-162.95 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - UT INTERNATIONAL OFFIC 2622 WICHITA           AUSTIN       T - Card Ending In 2000", "amount":-35.0 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-20.0 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - LONG CENTER FOR PERFOR 701 W RIVERSIDE DR     AUSTIN       T - Card Ending In 2000", "amount":-7.25 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - HYATT REGENCY PARKING 208N BARTON SPRINGS ROA888-587-4589 TX - Card Ending In 2000", "amount":-6.0 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - HYATT REGENCY PARKING 208N BARTON SPRINGS ROA888-587-4589 TX - Card Ending In 7090", "amount":-6.0 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-5.97 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - NNT MCCOYS #69     73266 11811 HWY 290 W        AUSTIN       - Card Ending In 2000", "amount":-3.24 }
+{ "date": "2015-08-08", "desc": "POS Withdrawal - AUSTIN PARKING METERS 124 W. 8th Street      AUSTIN       TX - Card Ending In 2000", "amount":-1.0 }
+{ "date": "2015-08-08", "desc": "ATM Inquiry    - VL741318 Cardtronics CCS1       DRIPPING SPRITXUS - Card Ending In 7090", "amount":0.0 }
+{ "date": "2015-08-08", "desc": "POS Deposit - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":37.61 }
+{ "date": "2015-08-08", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":100.0 }
+{ "date": "2015-08-09", "desc": "POS Withdrawal - 67107022949 THE HOME DEPOT 8995    DRIPPING SPRITXUS - Card Ending In 7090", "amount":-1.89 }
+{ "date": "2015-08-09", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":100.0 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - HYATT HOTELS AUSTIN F& 208 BARTON SPRINGS     888-587-4589 T - Card Ending In 7090", "amount":-156.81 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-96.01 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - NORTH BY NORTHWEST 5710 W. SLAUGHTER      AUSTIN       TXUS - Card Ending In 7090", "amount":-94.49 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - SONIC DRIVE IN #59 11801 HWY 290 WEST     AUSTIN       TXUS - Card Ending In 2000", "amount":-44.59 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 2000", "amount":-35.52 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - DOMINO'S 6418 105 S CANYONWOOD DR    DRIPPING SPRITXUS - Card Ending In 2000", "amount":-26.17 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - ANTONES RECORD SHOP 2928 GUADALUPE ST      AUSTIN       TXUS - Card Ending In 2000", "amount":-23.74 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 2000", "amount":-18.24 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - LOWE'S #2513 6400 BRODIE LANE       AUSTIN       TXUS - Card Ending In 7090", "amount":-16.19 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - 106159565290 AMERICAN PHX-RWE-CCS            DALLAS       TX - Card Ending In 2000", "amount":-13.96 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - MCCOYS #69 11811 HWY 290 W        AUSTIN       TXUS - Card Ending In 2000", "amount":-13.62 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - CORNER STORE 1318 13810 SAWYER RANCH RD  DRIPPING SPRITXUS - Card Ending In 7090", "amount":-13.46 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - TEXACO 0354661     Q61 11720 FM 1826          AUSTIN       T - Card Ending In 2000", "amount":-6.87 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - MCCOYS #69 11811 HWY 290 W        AUSTIN       TXUS - Card Ending In 2000", "amount":-5.4 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - HILL COUNTRY OUTDOOR P 12014 W HIGHWAY 290    AUSTIN       T - Card Ending In 7090", "amount":-4.46 }
+{ "date": "2015-08-10", "desc": "POS Withdrawal - BURGER KING #17718 Q07 15705 S IH-35          BUDA         T - Card Ending In 7090", "amount":-4.33 }
+{ "date": "2015-08-10", "desc": "External Deposit - AMAZON.COM ID3LXQ2E - Marketplac  payments.amazon.com ID#U6X42QZ19K9LLOW U6X42QZ19K9LLOW", "amount":3.03 }
+{ "date": "2015-08-10", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":325.41 }
+{ "date": "2015-08-11", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX SAV", "amount":-200.0 }
+{ "date": "2015-08-11", "desc": "POS Withdrawal - 979606 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-36.2 }
+{ "date": "2015-08-11", "desc": "POS Withdrawal - 979606 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-15.83 }
+{ "date": "2015-08-11", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          866-216-1072 W - Card Ending In 7090", "amount":-10.66 }
+{ "date": "2015-08-12", "desc": "POS Withdrawal - A & A NAILS & SPA 11720 FM 1826 ROAD     AUSTIN       TXUS - Card Ending In 2000", "amount":-80.0 }
+{ "date": "2015-08-12", "desc": "POS Withdrawal - 250299 GARLIC CREEK CO        BUDA         TXUS - Card Ending In 7090", "amount":-65.97 }
+{ "date": "2015-08-12", "desc": "POS Withdrawal - LONG CENTER FOR PERFOR 701 W RIVERSIDE DR     AUSTIN       T - Card Ending In 2000", "amount":-15.0 }
+{ "date": "2015-08-12", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-9.7 }
+{ "date": "2015-08-13", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-2.0 }
+{ "date": "2015-08-13", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":200.0 }
+{ "date": "2015-08-14", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-335.12 }
+{ "date": "2015-08-14", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX SAV", "amount":-200.0 }
+{ "date": "2015-08-14", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-67.88 }
+{ "date": "2015-08-15", "desc": "POS Withdrawal - TRUDY'S FOUR STAR 13059 FOUR STAR BLVD.  AUSTIN       TXUS - Card Ending In 2000", "amount":-88.48 }
+{ "date": "2015-08-15", "desc": "POS Withdrawal - LONG CENTER FOR PERFOR 701 W RIVERSIDE DR     AUSTIN       T - Card Ending In 7090", "amount":-57.5 }
+{ "date": "2015-08-15", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-08-16", "desc": "POS Withdrawal - XXXXXXXXXX88 OLD NAVY USA           BEE CAVES    TXUS - Card Ending In 2000", "amount":-109.98 }
+{ "date": "2015-08-16", "desc": "POS Withdrawal -  MARSHALLS              BEE CAVE     TXUS - Card Ending In 2000", "amount":-74.88 }
+{ "date": "2015-08-16", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-10.81 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-66.1 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - TJ TJ MAXX                AUSTIN       TXUS - Card Ending In 2000", "amount":-61.57 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - CP 6134 6134 HWY 290 WEST      AUSTIN       TXUS - Card Ending In 2000", "amount":-39.31 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - STERLING EVENTS 8423 RESEARCH BLVD     AUSTIN       TXUS - Card Ending In 2000", "amount":-23.5 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 7090", "amount":-20.5 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - HOMEGOODS HOME GOODS            SUNSETVALLEY  TXUS - Card Ending In 2000", "amount":-17.1 }
+{ "date": "2015-08-17", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-10.81 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - STERLING EVENTS 8423 RESEARCH BLVD     AUSTIN       TXUS - Card Ending In 2000", "amount":-7.0 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - XXXXXXXXXX81 OREILLY AUTO PARTS 441 DRIPPING SPRITXUS - Card Ending In 7090", "amount":-5.4 }
+{ "date": "2015-08-17", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-3.99 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-90.85 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - ALAMO DRAFTHOU00002469 5701 SLAUGHTER LANE    AUSTIN       T - Card Ending In 2000", "amount":-51.47 }
+{ "date": "2015-08-18", "desc": "External Withdrawal - FCU  - Berk pass", "amount":-25.0 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - CASA GARCIA'S MEXICAN 5815 W William Cannon DAUSTIN       TX - Card Ending In 7090", "amount":-20.44 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-16.99 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - STARBUCKS #14500 AUSTI 7015 West US Hwy 290   Austin       T - Card Ending In 2000", "amount":-8.88 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-7.7 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-6.98 }
+{ "date": "2015-08-18", "desc": "POS Withdrawal - BURGER KING #18555 Q07 13542 W HIGHWAY 290    AUSTIN       T - Card Ending In 7090", "amount":-3.72 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-48.92 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - TPWD PARK RESERVAT 4200 SMITH SCHOOL      AUSTIN       TXUS - Card Ending In 7090", "amount":-40.0 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - CNS RITE AID CORP  862269 598 E HWY US 290       DRIPPING SP - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - NST THE HOME DEPOT 062576 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-13.87 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 3311 RANCH ROAD 620    AUSTIN       T - Card Ending In 2000", "amount":-12.12 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-11.05 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - CVS 07607 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-10.0 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-9.58 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - CVS 07607 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-8.87 }
+{ "date": "2015-08-19", "desc": "POS Withdrawal - MCDONALD'S F4941 1209 BARTON SPRINGS    AUSTIN       TXUS - Card Ending In 7090", "amount":-1.08 }
+{ "date": "2015-08-20", "desc": "POS Withdrawal - PEDIATRIX OBSTETRIX 1110 EAST 32ND STREET  AUSTIN       TXUS - Card Ending In 2000", "amount":-45.0 }
+{ "date": "2015-08-20", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-23.68 }
+{ "date": "2015-08-20", "desc": "POS Withdrawal - SQ *MARY'S POP SHOP 3204 Beanna Street     Austin       TXUS - Card Ending In 2000", "amount":-16.28 }
+{ "date": "2015-08-20", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-12.99 }
+{ "date": "2015-08-20", "desc": "POS Withdrawal - SQ *MARY'S POP SHOP 1455 Market St Ste 600 Austin       TXUS - Card Ending In 2000", "amount":-9.22 }
+{ "date": "2015-08-20", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-5.01 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - 880274 HEB #404               AUSTIN       TXUS - Card Ending In 2000", "amount":-96.19 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - 32083 DIXIE QUICK STO        JOHNSON CITY TXUS - Card Ending In 7090", "amount":-68.07 }
+{ "date": "2015-08-21", "desc": "ATM Withdrawal - Cardtronics CCS 500 S HWY 281          JOHNSON CITY TXUS - Card Ending In 2000", "amount":-42.0 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - NST THE HOME DEPOT 062345 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-26.66 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - 32083 DIXIE QUICK STO        JOHNSON CITY TXUS - Card Ending In 2000", "amount":-19.88 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - WAL Wal-Mart Super 450278 1154 WAL-SAMS          FREDERICKSB - Card Ending In 2000", "amount":-4.07 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-3.89 }
+{ "date": "2015-08-21", "desc": "POS Withdrawal - REDBOX *DVD RENTAL 1 Tower Lane Ste 1200  OAKBROOK TER ILUS - Card Ending In 2000", "amount":-2.14 }
+{ "date": "2015-08-22", "desc": "POS Withdrawal - SUBWAY        03072253 6705 HWY 290 W         AUSTIN       T - Card Ending In 2000", "amount":-12.18 }
+{ "date": "2015-08-22", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-8.9 }
+{ "date": "2015-08-22", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-5.98 }
+{ "date": "2015-08-23", "desc": "POS Withdrawal - 72838 LOWE'S MARKET #        JUNCTION     TXUS - Card Ending In 7090", "amount":-38.9 }
+{ "date": "2015-08-23", "desc": "POS Withdrawal - 72838 LOWE'S MARKET #        JUNCTION     TXUS - Card Ending In 2000", "amount":-11.99 }
+{ "date": "2015-08-23", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":400.0 }
+{ "date": "2015-08-24", "desc": "POS Withdrawal - TEXAS STATE PARKS 4200 SMITH SCHOOL RD   AUSTIN       TXUS - Card Ending In 2000", "amount":-10.0 }
+{ "date": "2015-08-25", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-251.07 }
+{ "date": "2015-08-25", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-67.7 }
+{ "date": "2015-08-25", "desc": "POS Withdrawal - 545268 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-37.84 }
+{ "date": "2015-08-26", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - 106165041420 AMERICAN PHX-RWE-CCS            DALLAS       TX - Card Ending In 2000", "amount":-23.95 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - 106165046110 AMERICAN PHX-RWE-CCS            DALLAS       TX - Card Ending In 2000", "amount":-23.95 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-23.2 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    512-861-7060 T - Card Ending In 7090", "amount":-23.0 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - NORTH BY NORTHWEST 5710 W. SLAUGHTER      AUSTIN       TXUS - Card Ending In 2000", "amount":-20.42 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - MOBSTUB.COM 495 EMPIRE BLVD        888-2296390  NYUS - Card Ending In 2000", "amount":-12.95 }
+{ "date": "2015-08-26", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-6.99 }
+{ "date": "2015-08-27", "desc": "POS Withdrawal - XXXXXXXXXX89 HARBOR FREIGHT TOOLS U AUSTIN       TXUS - Card Ending In 7090", "amount":-31.32 }
+{ "date": "2015-08-27", "desc": "POS Withdrawal - ALAMO DRAFTHOU00002469 5701 SLAUGHTER LANE    AUSTIN       T - Card Ending In 2000", "amount":-20.59 }
+{ "date": "2015-08-28", "desc": "POS Withdrawal - CHISOS GRILL INC 12921 HILL COUNTRY     BEE CAVES    TXUS - Card Ending In 2000", "amount":-128.36 }
+{ "date": "2015-08-28", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-08-28", "desc": "POS Withdrawal - STARBUCKS #06341 AUSTI 3317 Northland Dr      Austin       T - Card Ending In 2000", "amount":-10.28 }
+{ "date": "2015-08-28", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-7.0 }
+{ "date": "2015-08-28", "desc": "POS Withdrawal - SAVERS 1094 4001 S LAMAR BLVD      AUSTIN       TXUS - Card Ending In 7090", "amount":-6.48 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - CVS 07607 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 7090", "amount":-75.71 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - RANDALLS FUEL  1779 LAKEWAY FM 620   LOHMANAUSTIN       TXUS - Card Ending In 2000", "amount":-26.94 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - RANDALLS STORE 1779 2303 RANCH ROAD 620    LAKEWAY      TXUS - Card Ending In 2000", "amount":-14.74 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-14.04 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-9.28 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - GOOGLE *Google Storage 1600 Amphitheatre Pkwy GOOGLE.COM/CHC - Card Ending In 7090", "amount":-2.12 }
+{ "date": "2015-08-29", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-1.06 }
+{ "date": "2015-08-30", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":125.0 }
+{ "date": "2015-08-31", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-85.0 }
+{ "date": "2015-08-31", "desc": "POS Withdrawal - ABEL'S ON THE LAKE 3825 LAKE AUSTIN BLVD SAUSTIN       TXUS - Card Ending In 2000", "amount":-47.76 }
+{ "date": "2015-08-31", "desc": "POS Withdrawal - XXXXXXXXXX87 AMERICAN EAGLE         Austin       TXUS - Card Ending In 2000", "amount":-37.83 }
+{ "date": "2015-08-31", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 7090", "amount":-30.75 }
+{ "date": "2015-08-31", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-08-31", "desc": "POS Withdrawal - DSC*DOLLAR SHAVE CLUB 513 Boccaccio Ave      866-2232780  CA - Card Ending In 2000", "amount":-6.0 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - NST THE HOME DEPOT 462353 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-229.58 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - RANDALLS STORE    2987 5145 N FM 620 RD SUITE AUSTIN       T - Card Ending In 2000", "amount":-157.02 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - ALAMO DRAFTHOU00002469 5701 SLAUGHTER LANE    AUSTIN       T - Card Ending In 7090", "amount":-71.16 }
+{ "date": "2015-09-01", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-40.0 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - TJ TJ MAXX                AUSTIN       TXUS - Card Ending In 2000", "amount":-18.37 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal -  ULTA 3                 BEE CAVE     TXUS - Card Ending In 2000", "amount":-17.77 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-15.27 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - RAISING CANE'S #161 3201 BEE CAVE RD.      AUSTIN       TXUS - Card Ending In 2000", "amount":-14.48 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - NIKS ITALIAN KITCHEN & 7900 N FM 620          AUSTIN       T - Card Ending In 2000", "amount":-12.81 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - NST THE HOME DEPOT 432413 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-10.83 }
+{ "date": "2015-09-01", "desc": "POS Withdrawal - XXXXXXXXXX89 OLD NAVY USA           Austin       TXUS - Card Ending In 2000", "amount":-9.54 }
+{ "date": "2015-09-01", "desc": "POS Deposit - NST THE HOME DEPOT 26197 260 EAST HWY 290       DRIPPING SPR - Card Ending In 7090", "amount":129.84 }
+{ "date": "2015-09-02", "desc": "POS Withdrawal - TUESDAY MORNING # 0883 7010 WEST HIGHWAY 71   AUSTIN       T - Card Ending In 2000", "amount":-51.43 }
+{ "date": "2015-09-02", "desc": "POS Withdrawal - CHO SUSHI JAPANESE FUS 2422 620 SOUTH SUITE A1AUSTIN       T - Card Ending In 7090", "amount":-48.0 }
+{ "date": "2015-09-02", "desc": "POS Withdrawal - SUNSET CANYON VETERINA 3710 E HIGHWAY 290     DRIPPING SPGST - Card Ending In 7090", "amount":-41.0 }
+{ "date": "2015-09-02", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-09-02", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-10.0 }
+{ "date": "2015-09-02", "desc": "POS Withdrawal - STARBUCKS #14500 AUSTI 7015 West US Hwy 290   Austin       T - Card Ending In 2000", "amount":-8.12 }
+{ "date": "2015-09-03", "desc": "POS Withdrawal - 879065 HEB GAS #451           AUSTIN       TXUS - Card Ending In 2000", "amount":-37.49 }
+{ "date": "2015-09-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-09-03", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 2000", "amount":-8.65 }
+{ "date": "2015-09-03", "desc": "POS Withdrawal - BACKBLAZE BACKUP 7700 EASTPORT PARKWAY  6503523738   CAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-165.33 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - 59432592053 ROSS STORES #205       AUSTIN       TXUS - Card Ending In 2000", "amount":-46.45 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - 11560532 NORDSTROM 5601 BRODIE  AUSTIN       TXUS - Card Ending In 2000", "amount":-20.81 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - PAYPAL *DSW INC 7700 EASTPORT PARKWAY  4029357733   OHUS - Card Ending In 2000", "amount":-19.37 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - CVS 07607 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 7090", "amount":-14.52 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal -  ULTA 3                 AUSTIN       TXUS - Card Ending In 2000", "amount":-11.86 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-8.99 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MATTH 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-09-04", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MARNI 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-09-04", "desc": "Dividend/Interest", "amount":0.04 }
+{ "date": "2015-09-05", "desc": "POS Withdrawal - 926767 MURPHY5723ATWAL        LANCASTER    TXUS - Card Ending In 2000", "amount":-31.2 }
+{ "date": "2015-09-05", "desc": "POS Withdrawal - WM SUPERCENTER # Wal-Mart Super Center  AUSTIN (MID WTXUS - Card Ending In 2000", "amount":-31.17 }
+{ "date": "2015-09-05", "desc": "POS Withdrawal - DNH*GODADDY.COM 14455 N. Hayden Rd     480-5058855  AZUS - Card Ending In 7090", "amount":-19.99 }
+{ "date": "2015-09-05", "desc": "POS Withdrawal - NEW CANAAN FARMS 5916 HWY 290 W         DRIPPING SPRITXUS - Card Ending In 2000", "amount":-15.0 }
+{ "date": "2015-09-05", "desc": "POS Withdrawal - AT HOME #32 5151A US HIGHWAY 290 WEAUSTIN       TXUS - Card Ending In 2000", "amount":-6.48 }
+{ "date": "2015-09-06", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-49.8 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - HAYS CNTY VEHREG 102 N. LBJ DRIVE       SAN MARCOS   TXUS - Card Ending In 7090", "amount":-63.75 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - HOMESPUN KITCHEN AND B 131 MERCER ST          DRIPPING SPRIT - Card Ending In 7090", "amount":-44.45 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - ARBY'S #1034 1514 WEST ADAMS        TEMPLE       TXUS - Card Ending In 2000", "amount":-30.57 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - TACO CABANA #0278 6611 S MOPAC EXPWY     AUSTIN       TXUS - Card Ending In 2000", "amount":-14.81 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - SAM MOON TRADING FRI 2449 PRESTON RD        FRISCO       TXU - Card Ending In 2000", "amount":-14.05 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 2000", "amount":-8.99 }
+{ "date": "2015-09-07", "desc": "POS Withdrawal - AUTO RENEWAL STICK 100 CONGRESS AVENU     AUSTIN       TXUS - Card Ending In 7090", "amount":-2.0 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 7090", "amount":-59.17 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - WALGREENS 27495 RANCH ROAD 12    DRIPPING SPRITXUS - Card Ending In 2000", "amount":-52.72 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - 45485 SHELL Service S        DRIPPING SPRITXUS - Card Ending In 2000", "amount":-36.78 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-29.82 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - NST THE HOME DEPOT 36044 260 EAST HWY 290       DRIPPING SPR - Card Ending In 7090", "amount":-25.49 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - TACO BELL #16048   QPS 300 I-35 NE            HILLSBORO    T - Card Ending In 2000", "amount":-13.69 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - MCDONALD'S F27395 333 W HWY 290 EAST     DRIPPING SPRITXUS - Card Ending In 7090", "amount":-1.61 }
+{ "date": "2015-09-08", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-1.06 }
+{ "date": "2015-09-08", "desc": "POS Deposit - NST THE HOME DEPOT 030078 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":16.12 }
+{ "date": "2015-09-08", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":400.0 }
+{ "date": "2015-09-09", "desc": "POS Withdrawal - TPWD PARK RESERVAT 4200 SMITH SCHOOL      AUSTIN       TXUS - Card Ending In 2000", "amount":-40.0 }
+{ "date": "2015-09-09", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-29.56 }
+{ "date": "2015-09-09", "desc": "POS Withdrawal - NST THE HOME DEPOT 561962 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-21.49 }
+{ "date": "2015-09-09", "desc": "POS Withdrawal - DNH*GODADDY.COM 14455 N. Hayden Rd     480-5058855  AZUS - Card Ending In 7090", "amount":-18.17 }
+{ "date": "2015-09-09", "desc": "POS Withdrawal - RANDALLS STORE 2485 2025 W  BEN WHITE BLVD AUSTIN       TXUS - Card Ending In 2000", "amount":-13.57 }
+{ "date": "2015-09-09", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-10.0 }
+{ "date": "2015-09-09", "desc": "POS Deposit - TPWD PARK RESERVAT 4200 SMITH SCHOOL      AUSTIN       TXUS - Card Ending In 2000", "amount":40.0 }
+{ "date": "2015-09-10", "desc": "POS Withdrawal - 11871517 BIG LOTS  AUSTINTX    AUSTIN       TXUS - Card Ending In 2000", "amount":-134.04 }
+{ "date": "2015-09-10", "desc": "POS Withdrawal - 599332 SPEC'S LIQUOR #        AUSTIN       TXUS - Card Ending In 7090", "amount":-84.54 }
+{ "date": "2015-09-10", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-44.99 }
+{ "date": "2015-09-10", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-29.89 }
+{ "date": "2015-09-10", "desc": "POS Withdrawal - PAYPAL *POINTSCOMIN 7700 EASTPORT PARKWAY  4029357733   CAUS - Card Ending In 2000", "amount":-29.56 }
+{ "date": "2015-09-10", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 3311 RANCH ROAD 620    AUSTIN       T - Card Ending In 2000", "amount":-5.63 }
+{ "date": "2015-09-11", "desc": "POS Withdrawal - US NAILS SPA 7107 W HIGHWAY 71 # E11AUSTIN       TXUS - Card Ending In 2000", "amount":-55.0 }
+{ "date": "2015-09-11", "desc": "POS Withdrawal - PANDA EXPRESS 1651 4301 W WILLIAM CANNON  AUSTIN       TXUS - Card Ending In 7090", "amount":-6.28 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - 3410613 TARGET T- 5300 S Mo Pa Austin       TXUS - Card Ending In 7090", "amount":-154.96 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - TRATTORIA LISINA 13308 F.M. 150 WES     DRIFTWOOD    TXUS - Card Ending In 2000", "amount":-105.06 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - 90749523 OFFICE DE 5300 MOPAC E AUSTIN       TXUS - Card Ending In 7090", "amount":-87.66 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - PAYPAMS.COM 0463 9359 E NICHOLS AVE S   877-7267586  COUS - Card Ending In 7090", "amount":-70.0 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 7090", "amount":-47.08 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - HILL COUNTRY PIZZE 598 E US 290 #250      DRIPPINGS    TXUS - Card Ending In 2000", "amount":-41.7 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-30.0 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-23.95 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - 3410613 TARGET T- 5300 S Mo Pa Austin       TXUS - Card Ending In 2000", "amount":-15.14 }
+{ "date": "2015-09-12", "desc": "POS Withdrawal - BELL SPRINGS WINER 501 OLD FITZHUGH       DRIPPING SPRITXUS - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-09-12", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":100.0 }
+{ "date": "2015-09-13", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 7090", "amount":-32.44 }
+{ "date": "2015-09-14", "desc": "External Withdrawal - FCU  -  mo", "amount":-45.0 }
+{ "date": "2015-09-14", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-31.65 }
+{ "date": "2015-09-14", "desc": "POS Withdrawal - REDBOX *DVD RENTAL 1 Tower Lane Ste 1200  866-733-2693 ILUS - Card Ending In 2000", "amount":-15.16 }
+{ "date": "2015-09-14", "desc": "POS Withdrawal - MUSICNOTES.COM 901 DEMING WAY SUITE 108009444667   WIUS - Card Ending In 2000", "amount":-9.95 }
+{ "date": "2015-09-14", "desc": "POS Withdrawal - MUSICNOTES.COM 901 DEMING WAY SUITE 108009444667   WIUS - Card Ending In 2000", "amount":-5.95 }
+{ "date": "2015-09-14", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":56.7 }
+{ "date": "2015-09-14", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":100.0 }
+{ "date": "2015-09-14", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":100.0 }
+{ "date": "2015-09-14", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":155.64 }
+{ "date": "2015-09-15", "desc": "ATM Withdrawal - AA CREDIT UNION TERM 8 - LL BAG CLAIM  AAFCU BRANCH NYUS - Card Ending In 2000", "amount":-160.0 }
+{ "date": "2015-09-15", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-65.0 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-56.0 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-56.0 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-56.0 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 7090", "amount":-41.25 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-32.01 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - SOU MTA VENDING MAC031185 2 BROADWAY B15.123     NEW YORK    - Card Ending In 7090", "amount":-28.25 }
+{ "date": "2015-09-15", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-09-15", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 7090", "amount":-21.75 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-19.0 }
+{ "date": "2015-09-15", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-12.75 }
+{ "date": "2015-09-15", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-2.0 }
+{ "date": "2015-09-16", "desc": "POS Withdrawal - CORNER STORE 1318 13810 SAWYER RANCH RD  DRIPPING SPRITXUS - Card Ending In 7090", "amount":-36.53 }
+{ "date": "2015-09-16", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-33.06 }
+{ "date": "2015-09-16", "desc": "POS Withdrawal - 106172279900 AMERICAN PHX-RWE-CCS            DALLAS       TX - Card Ending In 2000", "amount":-23.95 }
+{ "date": "2015-09-16", "desc": "POS Withdrawal - 106172278300 AMERICAN PHX-RWE-CCS            DALLAS       TX - Card Ending In 2000", "amount":-23.95 }
+{ "date": "2015-09-16", "desc": "POS Withdrawal - ELI ZABAR BREAD LL 416 LEXINGTON AVE      NEW YORK     NYUS - Card Ending In 7090", "amount":-11.9 }
+{ "date": "2015-09-17", "desc": "POS Withdrawal - TKTS / THEATER TIX 1 TKTS DUFFY SQUARE    NEW YORK     NYUS - Card Ending In 2000", "amount":-77.5 }
+{ "date": "2015-09-17", "desc": "POS Withdrawal - LOL NEW YORK 300 W 43RD ST 403      NEW YORK     NYUS - Card Ending In 2000", "amount":-50.7 }
+{ "date": "2015-09-17", "desc": "POS Withdrawal - BATTERY GARDENS INSIDE BATTERY PARK    NEW YORK     NYUS - Card Ending In 7090", "amount":-47.24 }
+{ "date": "2015-09-17", "desc": "POS Withdrawal - 4040 CLUB 6 WEST 25 ST           NEW YORK     NYUS - Card Ending In 2000", "amount":-36.54 }
+{ "date": "2015-09-17", "desc": "POS Withdrawal - GRANDE HARVEST WINES 33 GRAND CENTRAL TERMINNEW YORK     NYU - Card Ending In 7090", "amount":-18.45 }
+{ "date": "2015-09-17", "desc": "POS Withdrawal - SOU MTA VENDING MAC13257 2 BROADWAY B15.123     NEW YORK     - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-09-18", "desc": "POS Withdrawal - TJ TJ MAXX                NEWYORK      NYUS - Card Ending In 2000", "amount":-49.98 }
+{ "date": "2015-09-18", "desc": "POS Withdrawal - WCS ADM NEW YORK AQUA BOARDWALK W8THST602SURFBROOKLYN     NY - Card Ending In 2000", "amount":-23.9 }
+{ "date": "2015-09-18", "desc": "POS Withdrawal - RUBY FOOSTIMES SQUARE 1626 BROADWAY TIMES SQ NEW YORK     NY - Card Ending In 2000", "amount":-22.51 }
+{ "date": "2015-09-18", "desc": "POS Withdrawal - WALDORF PEACOCK ALLY 301 PARK AVENUE        NEW YORK     NYU - Card Ending In 2000", "amount":-21.6 }
+{ "date": "2015-09-19", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-200.0 }
+{ "date": "2015-09-19", "desc": "POS Withdrawal - TODD ENGLISH FOOD HALL 768 FIFTH AVENUE       NEW YORK     N - Card Ending In 7090", "amount":-40.02 }
+{ "date": "2015-09-19", "desc": "POS Withdrawal - LYFT   *RIDE FRI 12PM 548 MARKET ST          8552800278   CA - Card Ending In 2000", "amount":-25.81 }
+{ "date": "2015-09-19", "desc": "POS Withdrawal - LENNY'S X LLC      QNO 1269 1ST AVENUE        NEW YORK     N - Card Ending In 7090", "amount":-11.15 }
+{ "date": "2015-09-20", "desc": "POS Withdrawal - COSTCO WHSE #0641 4301 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 2000", "amount":-199.82 }
+{ "date": "2015-09-20", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-108.75 }
+{ "date": "2015-09-20", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-59.65 }
+{ "date": "2015-09-20", "desc": "POS Withdrawal - 294692 JD MARKET #4           AUSTIN       TXUS - Card Ending In 7090", "amount":-28.12 }
+{ "date": "2015-09-20", "desc": "POS Withdrawal - COSTCO WHSE #0641 4301 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 2000", "amount":-5.6 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - MARRIOTT 33789 NY MARQ 1535 BROADWAY          NEW YORK     N - Card Ending In 2000", "amount":-95.65 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-58.0 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - 224 BOSE STORE NEW YOR 620 FIFTH AVE SPACE 5  NEW YORK     N - Card Ending In 7090", "amount":-38.11 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - 1742 WINE BAR 1742 2nd Ave           NEW YORK     NYUS - Card Ending In 7090", "amount":-34.6 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - MARRIOTT 33789 NY MARQ 1535 BROADWAY          NEW YORK     N - Card Ending In 2000", "amount":-29.13 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-12.79 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - MCDONALD'S F26066 220 W 42ND STREET      NEW YORK     NYUS - Card Ending In 7090", "amount":-11.63 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - LTV/UNITED INFLIGHT TV 700 S BABCOCK ST STE 30MELBOURNE    F - Card Ending In 2000", "amount":-7.99 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - DC CUPCAKES CAFE 226 W. 44th St.        NEW YORK     NYUS - Card Ending In 2000", "amount":-7.46 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - TJ TJ MAXX                AUSTIN       TXUS - Card Ending In 2000", "amount":-4.29 }
+{ "date": "2015-09-21", "desc": "POS Withdrawal - CITY LIGHTS AT THE BEN 500 EAST 62ND STREET   NEW YORK     N - Card Ending In 7090", "amount":-3.77 }
+{ "date": "2015-09-21", "desc": "External Deposit - AMAZON.COM IESC1WFF - Marketplac  payments.amazon.com ID#QNQK9Z43WLNNVIB QNQK9Z43WLNNVIB", "amount":7.59 }
+{ "date": "2015-09-21", "desc": "POS Deposit - XXXXXXXXXX8 DSW SUNSET VALLEY      SUNSET VALLEYTXUS - Card Ending In 2000", "amount":11.42 }
+{ "date": "2015-09-21", "desc": "POS Deposit -  ULTA 3                 AUSTIN       TXUS - Card Ending In 2000", "amount":28.11 }
+{ "date": "2015-09-21", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":150.0 }
+{ "date": "2015-09-22", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-09-22", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-09-22", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-09-22", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-3.75 }
+{ "date": "2015-09-23", "desc": "POS Withdrawal - CEDAR VALLEY SPIRITS 12002 West Highway 290 AUSTIN       TXU - Card Ending In 2000", "amount":-36.79 }
+{ "date": "2015-09-23", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-21.53 }
+{ "date": "2015-09-23", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-19.4 }
+{ "date": "2015-09-23", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 3311 RANCH ROAD 620    AUSTIN       T - Card Ending In 2000", "amount":-6.71 }
+{ "date": "2015-09-23", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 3311 RANCH ROAD 620    AUSTIN       T - Card Ending In 2000", "amount":-4.28 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - CVS/PHARMACY #07 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-64.78 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-40.19 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - DAY LILY HAIR AND NAIL 12921 SHOPS PKWY STE 40BEE CAVES    T - Card Ending In 2000", "amount":-38.0 }
+{ "date": "2015-09-24", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-09-24", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-21.0 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-15.54 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - MAXEMAIL 847-795-9216 1501 N CLEVELAND AVE   312-2644000  IL - Card Ending In 7090", "amount":-14.85 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - P TERRY'S BURGER STAND 3311 RANCH ROAD 620    AUSTIN       T - Card Ending In 2000", "amount":-12.61 }
+{ "date": "2015-09-24", "desc": "POS Withdrawal - GROUPON INC 600 W Chicago Ave      877-788-7858 ILUS - Card Ending In 2000", "amount":-9.55 }
+{ "date": "2015-09-24", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":150.0 }
+{ "date": "2015-09-25", "desc": "ATM Withdrawal - P263115 361 RAINIER AVE S      RENTON       WAUS - Card Ending In 7090", "amount":-202.5 }
+{ "date": "2015-09-25", "desc": "ATM Withdrawal - Bancard Systems 916 S 3RD ST.          RENTON       WAUS - Card Ending In 7090", "amount":-102.5 }
+{ "date": "2015-09-25", "desc": "POS Withdrawal - DNC TRAVEL - AUSTI 3600 PRESIDENTIAL      AUSTIN       TXUS - Card Ending In 7090", "amount":-16.18 }
+{ "date": "2015-09-25", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-2.98 }
+{ "date": "2015-09-25", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-1.06 }
+{ "date": "2015-09-26", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-99.98 }
+{ "date": "2015-09-26", "desc": "POS Withdrawal - VERDES MEXICAN PAR 16018 HAMILTON POO     AUSTIN       TXUS - Card Ending In 7090", "amount":-90.91 }
+{ "date": "2015-09-26", "desc": "POS Withdrawal - 8 BIT ARCADE BAR 916 S 3RD ST           RENTON       WAUS - Card Ending In 7090", "amount":-12.5 }
+{ "date": "2015-09-26", "desc": "POS Withdrawal - JACK IN THE BOX #8409 478 RAINIER AVE S      RENTON       WA - Card Ending In 7090", "amount":-7.86 }
+{ "date": "2015-09-26", "desc": "POS Withdrawal - DIAMOND LIL'S 111 S 3RD STREET       RENTON       WAUS - Card Ending In 7090", "amount":-4.0 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - DOMINO'S 7135 13450 1ST AVE S        360-830-0354 WAUS - Card Ending In 7090", "amount":-28.05 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal -  FRED MEYER 028         BURIEN       WAUS - Card Ending In 7090", "amount":-27.38 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - FRED MEYER 14300 1ST AVE. S       SEATTLE      WAUS - Card Ending In 7090", "amount":-25.07 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - LYFT   *RIDE SUN 11AM 548 MARKET ST          8552800278   CA - Card Ending In 2000", "amount":-15.08 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - ALASKA AIR IN FLIGHT PO BOX 68900           SEATTLE      WAU - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - ALASKA AIR IN FLIGHT PO BOX 68900           SEATTLE      WAU - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - ALASKA AIR IN FLIGHT PO BOX 68900           SEATTLE      WAU - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-09-28", "desc": "POS Withdrawal - AMAZON VIDEO ON DEMAND 440 TERRY AVE N        866-216-1072 W - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-09-29", "desc": "POS Withdrawal - CENTURYLINKCONVCTRCONC 800 Occidental Ave S StSEATTLE      W - Card Ending In 2000", "amount":-12.5 }
+{ "date": "2015-09-29", "desc": "POS Withdrawal - GOOGLE *Google Storage 1600 Amphitheatre Pkwy GOOGLE.COM/CHC - Card Ending In 7090", "amount":-2.12 }
+{ "date": "2015-09-30", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-30.29 }
+{ "date": "2015-09-30", "desc": "POS Withdrawal - 272178930999  ALASKA A 3600 PRESIDENTIAL BLVD 08006545669  T - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-09-30", "desc": "POS Withdrawal - 272178931004  ALASKA A 3600 PRESIDENTIAL BLVD 08006545669  T - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-09-30", "desc": "POS Withdrawal - ALASKA AIR IN FLIGHT PO BOX 68900           SEATTLE      WAU - Card Ending In 7090", "amount":-13.5 }
+{ "date": "2015-09-30", "desc": "POS Withdrawal - NST THE HOME DEPOT 162242 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-11.84 }
+{ "date": "2015-09-30", "desc": "POS Withdrawal - DSC*DOLLAR SHAVE CLUB 513 Boccaccio Ave      866-2232780  CA - Card Ending In 2000", "amount":-6.0 }
+{ "date": "2015-10-01", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 7090", "amount":-224.85 }
+{ "date": "2015-10-01", "desc": "POS Withdrawal - TODDS AUTOMOTIVE 12117 HWY 290 WEST     AUSTIN       TXUS - Card Ending In 7090", "amount":-98.04 }
+{ "date": "2015-10-01", "desc": "POS Withdrawal - 880016 HEB #428               AUSTIN       TXUS - Card Ending In 7090", "amount":-74.52 }
+{ "date": "2015-10-01", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-17.27 }
+{ "date": "2015-10-02", "desc": "POS Withdrawal - STUDIO 1826 14401 FM 1826          AUSTIN       TXUS - Card Ending In 2000", "amount":-115.0 }
+{ "date": "2015-10-02", "desc": "POS Withdrawal - SPENCER GIFTS #44 2901 CAPITOL OF TX HWY AUSTIN       TXUS - Card Ending In 2000", "amount":-36.77 }
+{ "date": "2015-10-02", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-33.21 }
+{ "date": "2015-10-02", "desc": "POS Withdrawal - CHEVRON 0158942 1950 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 7090", "amount":-32.58 }
+{ "date": "2015-10-02", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-23.44 }
+{ "date": "2015-10-02", "desc": "POS Withdrawal - 672242204 JCPENNEY STORE 2040    AUSTIN       TXUS - Card Ending In 7090", "amount":-14.06 }
+{ "date": "2015-10-02", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-5.72 }
+{ "date": "2015-10-02", "desc": "Dividend/Interest", "amount":0.05 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-50.13 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-45.59 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - NAK PROACTIV KIOSK 026 2901 CAPITAL OF TX HWY AUSTIN       T - Card Ending In 2000", "amount":-21.6 }
+{ "date": "2015-10-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - PANDA EXPRESS #1939 2901 S CAPITOL OF TEXASAUSTIN       TXUS - Card Ending In 7090", "amount":-19.05 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - T MOBILE 6718 2901 S CAPITAL OF TE   AUSTIN       TXUS - Card Ending In 7090", "amount":-16.24 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - FRULLATI CAFE & BAKERY 2901 S. CAP TX HWY VC#2AUSTIN       T - Card Ending In 2000", "amount":-5.4 }
+{ "date": "2015-10-03", "desc": "POS Withdrawal - BACKBLAZE BACKUP 7700 EASTPORT PARKWAY  6503523738   CAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-91.48 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-60.99 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - CNS JOANN STORES I232023 1671 IH 35 SOUTH #208  NEW BRAUNFE - Card Ending In 2000", "amount":-52.37 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - RANDALLS STORE 2485 2025 W  BEN WHITE BLVD AUSTIN       TXUS - Card Ending In 7090", "amount":-52.05 }
+{ "date": "2015-10-05", "desc": "External Withdrawal - FCU  -  La", "amount":-40.56 }
+{ "date": "2015-10-05", "desc": "External Withdrawal - FCU  -  Lab", "amount":-28.27 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-11.43 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - CHARLEY'S GRILLED SUBS 2901 SOUTH CAPITAL OF TAUSTIN       T - Card Ending In 2000", "amount":-8.64 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - DRIPPIN' DONUTS 651  HWY. 290 WEST     DRIPPING SPRITXUS - Card Ending In 2000", "amount":-8.4 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MATTH 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MARNI 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-10-05", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-3.19 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - 87607 HEB #014               KYLE         TXUS - Card Ending In 2000", "amount":-80.22 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - 923443 KIRKLANDS #730         SAN MARCOS   TXUS - Card Ending In 2000", "amount":-30.28 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-30.25 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - DNH*GODADDY.COM 14455 N. Hayden Rd     480-5058855  AZUS - Card Ending In 7090", "amount":-24.84 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-22.89 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-11.99 }
+{ "date": "2015-10-06", "desc": "POS Withdrawal - 876044 HEB GAS/CARWASH        KYLE         TXUS - Card Ending In 2000", "amount":-10.83 }
+{ "date": "2015-10-06", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":300.0 }
+{ "date": "2015-10-07", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-50.0 }
+{ "date": "2015-10-07", "desc": "POS Withdrawal - GH BASS & CO #4583 4015 INTERSTATE 35 S   SAN MARCOS   TXUS - Card Ending In 2000", "amount":-25.46 }
+{ "date": "2015-10-07", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-10-07", "desc": "POS Withdrawal - SAFEWAY  FUEL  2485 2025 W BEN WHITE BLVD  AUSTIN       TXUS - Card Ending In 2000", "amount":-22.92 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 7090", "amount":-99.52 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - FIRST CHIROPRACTIC 2121 E OLTORF ST STE 2 AUSTIN       TXUS - Card Ending In 2000", "amount":-30.0 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - CINEMARK THEATRES 377 12812 Hill Country BlvdBEE CAVE     TX - Card Ending In 7090", "amount":-20.8 }
+{ "date": "2015-10-08", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-17.9 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - JACK IN THE BOX #0845 1936 E OLTORF ST       AUSTIN       TX - Card Ending In 2000", "amount":-16.63 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - CHEVRON 0203164    Q61 400 S CONGRESS AVE     AUSTIN       T - Card Ending In 7090", "amount":-11.33 }
+{ "date": "2015-10-08", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-6.9 }
+{ "date": "2015-10-09", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 12815 SOPS PKWY SU     BEE CAVE     TXUS - Card Ending In 2000", "amount":-59.67 }
+{ "date": "2015-10-09", "desc": "POS Withdrawal - PAYPAMS.COM 0463 9359 E NICHOLS AVE S   877-7267586  COUS - Card Ending In 7090", "amount":-50.0 }
+{ "date": "2015-10-09", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-10-09", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-10.69 }
+{ "date": "2015-10-09", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-8.0 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - CELL SURGEONS 2900 S CONGRESS AVE STEAUSTIN       TXUS - Card Ending In 7090", "amount":-113.66 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - STANLEYS FARMHOUSE PIZ 13187 FITZHUGH RD      AUSTIN       T - Card Ending In 7090", "amount":-57.14 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - EMILIES NAIL SALON 2127 Lohmans Crossing RLAKEWAY      TXUS - Card Ending In 2000", "amount":-41.0 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - STAR OF TEXAS LIQUOR A 400 W HIGHWAY 290      DRIPPINGSPRINT - Card Ending In 2000", "amount":-12.34 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - PANDA EXPRESS #1939 2901 S CAPITOL OF TEXASAUSTIN       TXUS - Card Ending In 7090", "amount":-9.31 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - AUSBCYCLE 512-954-1665 1000 BRAZOS STREET     AUSTIN       T - Card Ending In 7090", "amount":-8.0 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-7.98 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-10-10", "desc": "POS Withdrawal - STARBUCKS #18710 BELTO 200 North IH-35        Belton       T - Card Ending In 2000", "amount":-4.82 }
+{ "date": "2015-10-10", "desc": "POS Deposit - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":45.59 }
+{ "date": "2015-10-11", "desc": "POS Withdrawal - 187293 FOOD MART              AUSTIN       TXUS - Card Ending In 7090", "amount":-36.35 }
+{ "date": "2015-10-11", "desc": "POS Withdrawal - 187293 FOOD MART              AUSTIN       TXUS - Card Ending In 2000", "amount":-32.45 }
+{ "date": "2015-10-11", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-5.88 }
+{ "date": "2015-10-11", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":140.0 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - RANDALLS STORE 2485 2025 W  BEN WHITE BLVD AUSTIN       TXUS - Card Ending In 7090", "amount":-185.61 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-69.66 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-55.47 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - GOODWILL 1233 OAK HILL 7100 W US HWY 290      AUSTIN       T - Card Ending In 7090", "amount":-49.73 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - 4500967 TARGET T- 2300 W Ben W Austin       TXUS - Card Ending In 2000", "amount":-16.21 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - TACO BELL #030169 1703 RR 620 S          LAKEWAY      TXUS - Card Ending In 2000", "amount":-7.55 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - MCDONALD'S F7877 7010 HWY 71 W          AUSTIN       TXUS - Card Ending In 7090", "amount":-5.25 }
+{ "date": "2015-10-12", "desc": "POS Withdrawal - AUSBCYCLE 512-954-1665 1000 BRAZOS STREET     AUSTIN       T - Card Ending In 7090", "amount":-4.33 }
+{ "date": "2015-10-13", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-91.83 }
+{ "date": "2015-10-13", "desc": "POS Withdrawal - 294692 JD MARKET #4           AUSTIN       TXUS - Card Ending In 7090", "amount":-48.12 }
+{ "date": "2015-10-13", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-43.98 }
+{ "date": "2015-10-13", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-10-13", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-23.93 }
+{ "date": "2015-10-13", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-19.12 }
+{ "date": "2015-10-13", "desc": "POS Withdrawal - IPIC AUSTIN GIFT CARD 3225 AMY DONOVAN PLZ   561-886-3231 TX - Card Ending In 2000", "amount":-16.24 }
+{ "date": "2015-10-14", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-35.0 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - 694453 TRADER JOE'S  #        AUSTIN       TXUS - Card Ending In 2000", "amount":-28.68 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-27.94 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-21.43 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-20.0 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-8.99 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-6.37 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-10-14", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-4.29 }
+{ "date": "2015-10-14", "desc": "POS Deposit - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":8.95 }
+{ "date": "2015-10-15", "desc": "POS Withdrawal - 294692 JD MARKET #4           AUSTIN       TXUS - Card Ending In 2000", "amount":-27.66 }
+{ "date": "2015-10-15", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-10.81 }
+{ "date": "2015-10-15", "desc": "POS Withdrawal - AUSBCYCLE 512-954-1665 1000 BRAZOS STREET     AUSTIN       T - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - NST THE HOME DEPOT 36119 260 EAST HWY 290       DRIPPING SPR - Card Ending In 7090", "amount":-106.27 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - RANDALLS STORE 248 6600 MOPAC EXPRESSWAY SAUSTIN       TXUS - Card Ending In 2000", "amount":-88.4 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - 294692 JD MARKET #4           AUSTIN       TXUS - Card Ending In 7090", "amount":-64.24 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - 45504 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-33.65 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-32.43 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-3.94 }
+{ "date": "2015-10-16", "desc": "POS Withdrawal - ABM PARKING AUSTIN BER 2901 EMPLOYEE AVE      AUSTIN       T - Card Ending In 2000", "amount":-3.0 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-71.05 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - IN-N-OUT BURGER #29 4508 N IH 35           AUSTIN       TXUS - Card Ending In 7090", "amount":-27.82 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-17.39 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - DRIPPIN' DONUTS 651  HWY. 290 WEST     DRIPPING SPRITXUS - Card Ending In 7090", "amount":-10.18 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - AUSBCYCLE 512-954-1665 1000 BRAZOS STREET     AUSTIN       T - Card Ending In 2000", "amount":-4.33 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - IN-N-OUT BURGER #29 4508 N IH 35           AUSTIN       TXUS - Card Ending In 7090", "amount":-4.11 }
+{ "date": "2015-10-17", "desc": "POS Withdrawal - KICKSTARTER CLUBHUB  S 3180 18TH STREET       9292244943   C - Card Ending In 7090", "amount":-1.0 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 4301 W. WILLIAM CA     AUSTIN       TXUS - Card Ending In 2000", "amount":-69.95 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 4301 W. WILLIAM CA     AUSTIN       TXUS - Card Ending In 2000", "amount":-49.63 }
+{ "date": "2015-10-19", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 4301 W. WILLIAM CA     AUSTIN       TXUS - Card Ending In 2000", "amount":-19.32 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 4301 W. WILLIAM CA     AUSTIN       TXUS - Card Ending In 2000", "amount":-14.03 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-10.66 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - MCDONALD'S F8056 12514 W HWY 71         BEE CAVE     TXUS - Card Ending In 7090", "amount":-6.17 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 4301 W. WILLIAM CA     AUSTIN       TXUS - Card Ending In 2000", "amount":-4.33 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - EXXONMOBIL    4812905 11720 FM 1826          AUSTIN       TX - Card Ending In 7090", "amount":-4.0 }
+{ "date": "2015-10-19", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          AMZN.COM/billW - Card Ending In 7090", "amount":-3.19 }
+{ "date": "2015-10-20", "desc": "POS Withdrawal - DOMINO'S 6418 105 S CANYONWOOD DR    830-257-4840 TXUS - Card Ending In 7090", "amount":-45.42 }
+{ "date": "2015-10-20", "desc": "POS Withdrawal - AVEDA INSTITUTE AUSTIN 3300 N I-35 Suite 100  AUSTIN       T - Card Ending In 2000", "amount":-23.0 }
+{ "date": "2015-10-20", "desc": "POS Withdrawal - CRYSTAL FALLS GOLF CLU 3400 CRYSTAL FALLS PKWYLEANDER      T - Card Ending In 7090", "amount":-19.0 }
+{ "date": "2015-10-20", "desc": "POS Withdrawal - CRYSTAL FALLS GOLF CLU 3400 CRYSTAL FALLS PKWYLEANDER      T - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-10-20", "desc": "POS Withdrawal - 976227 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-5.93 }
+{ "date": "2015-10-21", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-124.3 }
+{ "date": "2015-10-21", "desc": "Withdrawal - Online Banking Transfer To Visa XXXXXXXXXXXX9293", "amount":-108.71 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-98.71 }
+{ "date": "2015-10-21", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-85.0 }
+{ "date": "2015-10-21", "desc": "Withdrawal - Online Banking Transfer To Visa XXXXXXXXXXXX9293", "amount":-70.0 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - JACK ALLENS KITCHEN 7720 W Highway 71      AUSTIN       TXUS - Card Ending In 2000", "amount":-61.18 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - OLD NAVY US 6615 4015 S INTERSTATE HWY 3SAN MARCOS   TXUS - Card Ending In 2000", "amount":-54.54 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - V & V LIQUOR 11720 FM 1826 SUITE 104AUSTIN       TXUS - Card Ending In 2000", "amount":-35.71 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - EXXONMOBIL    4812905 11720 FM 1826          AUSTIN       TX - Card Ending In 7090", "amount":-30.56 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - 11408047 CRACKER B 4321 S IH 35 SAN MARCOS   TXUS - Card Ending In 2000", "amount":-16.23 }
+{ "date": "2015-10-21", "desc": "Withdrawal - Online Banking Transfer To Visa XXXXXXXXXXXX9293", "amount":-14.6 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - 11408047 CRACKER B 4321 S IH 35 SAN MARCOS   TXUS - Card Ending In 2000", "amount":-11.23 }
+{ "date": "2015-10-21", "desc": "POS Withdrawal - XXXXXXXXXX81 OREILLY AUTO PARTS 441 DRIPPING SPRITXUS - Card Ending In 7090", "amount":-7.99 }
+{ "date": "2015-10-21", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-6.0 }
+{ "date": "2015-10-22", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-122.33 }
+{ "date": "2015-10-22", "desc": "POS Withdrawal - NORTH BY NORTHWEST 5710 W. SLAUGHTER      AUSTIN       TXUS - Card Ending In 7090", "amount":-44.98 }
+{ "date": "2015-10-22", "desc": "POS Withdrawal - 876044 HEB GAS/CARWASH        KYLE         TXUS - Card Ending In 2000", "amount":-28.9 }
+{ "date": "2015-10-22", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-25.84 }
+{ "date": "2015-10-23", "desc": "POS Withdrawal - CALVIN KLEIN #058 3939 IH-35 SOUTH       SAN MARCOS   TXUS - Card Ending In 2000", "amount":-54.1 }
+{ "date": "2015-10-23", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 2000", "amount":-46.23 }
+{ "date": "2015-10-23", "desc": "POS Withdrawal - 694453 TRADER JOE'S  #        AUSTIN       TXUS - Card Ending In 2000", "amount":-42.66 }
+{ "date": "2015-10-24", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-78.98 }
+{ "date": "2015-10-24", "desc": "POS Withdrawal - 1629278669082 UNITED 600 Jefferson Street   800-932-2732 TXU - Card Ending In 2000", "amount":-15.98 }
+{ "date": "2015-10-24", "desc": "POS Withdrawal - 1629278669071 UNITED 600 Jefferson Street   800-932-2732 TXU - Card Ending In 2000", "amount":-8.99 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - CHEESECAKE FACTORY #18 2901 S.CAP TX HWY SP G0AUSTIN       T - Card Ending In 2000", "amount":-99.22 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-91.76 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 2000", "amount":-43.5 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-26.68 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - CHEESECAKE FACTORY #18 2901 S.CAP TX HWY SP G0AUSTIN       T - Card Ending In 2000", "amount":-24.38 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - AMC BARTON CREEK #0802 2901 CAPITAL OF TEXAS HAUSTIN       T - Card Ending In 2000", "amount":-17.3 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - TRUDY'S FOUR STAR 13059 FOUR STAR BLVD.  AUSTIN       TXUS - Card Ending In 2000", "amount":-16.0 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - CVS/PHARMACY #0008 2306 RR 620 S          LAKEWAY      TXUS - Card Ending In 7090", "amount":-12.99 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - THE COFFEE BEAN & 5030 WEST US 290       AUSTIN       TXUS - Card Ending In 7090", "amount":-12.15 }
+{ "date": "2015-10-26", "desc": "POS Withdrawal - AMC BARTON CREEK #0802 2901 CAPITAL OF TEXAS HAUSTIN       T - Card Ending In 2000", "amount":-9.72 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-53.36 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-19.0 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-17.48 }
+{ "date": "2015-10-27", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-8.55 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-3.0 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 2000", "amount":-3.0 }
+{ "date": "2015-10-27", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-1.06 }
+{ "date": "2015-10-28", "desc": "POS Withdrawal - COSTCO WHSE #0641 4301 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 2000", "amount":-56.5 }
+{ "date": "2015-10-28", "desc": "POS Withdrawal - PAYPAMS.COM 0463 9359 E NICHOLS AVE S   877-7267586  COUS - Card Ending In 7090", "amount":-35.0 }
+{ "date": "2015-10-28", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 7090", "amount":-27.5 }
+{ "date": "2015-10-28", "desc": "POS Withdrawal - 919867 SPROUTS FARMERS        AUSTIN       TXUS - Card Ending In 2000", "amount":-16.17 }
+{ "date": "2015-10-29", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-45.0 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - TRADER JOE'S #453 QPS 2805 BEE CAVES RD #400 AUSTIN       TX - Card Ending In 2000", "amount":-37.22 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - SHELL OIL 57545552309 13542 W HIGHWAY 290    AUSTIN       TX - Card Ending In 7090", "amount":-31.69 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-30.68 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 7090", "amount":-17.16 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-16.73 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - SHELL OIL 57545552309 13542 W HIGHWAY 290    AUSTIN       TX - Card Ending In 7090", "amount":-12.0 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - WHOLEFDS ABT 10384 4301 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 2000", "amount":-11.48 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-9.99 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-9.99 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - IN-N-OUT BURGER #29 4508 N IH 35           AUSTIN       TXUS - Card Ending In 7090", "amount":-8.01 }
+{ "date": "2015-10-29", "desc": "POS Withdrawal - GOOGLE *Google Storage 1600 Amphitheatre Pkwy GOOGLE.COM/CHC - Card Ending In 7090", "amount":-2.12 }
+{ "date": "2015-10-30", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-87.28 }
+{ "date": "2015-10-30", "desc": "POS Withdrawal - TUESDAY MORNING # 0883 7010 WEST HIGHWAY 71   AUSTIN       T - Card Ending In 2000", "amount":-37.4 }
+{ "date": "2015-10-30", "desc": "POS Withdrawal - WHATABURGER 346    Q26 601 BARTON SPRINGS ROADAUSTIN       T - Card Ending In 2000", "amount":-3.06 }
+{ "date": "2015-10-30", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-1.38 }
+{ "date": "2015-10-31", "desc": "POS Withdrawal -  36 Hillsboro FactoryHILLSBORO    TXUS - Card Ending In 7090", "amount":-60.61 }
+{ "date": "2015-10-31", "desc": "POS Withdrawal - DOMINO'S 6418 105 S CANYONWOOD DR    830-257-4840 TXUS - Card Ending In 7090", "amount":-50.09 }
+{ "date": "2015-10-31", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-40.0 }
+{ "date": "2015-10-31", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-7.0 }
+{ "date": "2015-11-01", "desc": "POS Withdrawal - 646514 CORNER STORE 21        GRAND PRAIRIETXUS - Card Ending In 7090", "amount":-22.05 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - IPIC AUSTIN F&B 3225 AMY DONOVAN PLZ   AUSTIN       TXUS - Card Ending In 2000", "amount":-121.8 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - PAPPADEAUX SEAFOOD KIT 1304 COPELAND ROAD     ARLINGTON    T - Card Ending In 7090", "amount":-55.17 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - SPROUTS FARMERS MARK 5711 W INTERSTATE 20 H ARLINGTON    TXU - Card Ending In 7090", "amount":-48.3 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - A & A NAILS & SPA 11720 FM 1826 ROAD     AUSTIN       TXUS - Card Ending In 2000", "amount":-39.0 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - HUMPERDINK'S - #5 700 SIX FLAGS DRIVE    ARLINGTON    TXUS - Card Ending In 7090", "amount":-20.01 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - TEXAS ROADHOUSE FR2213 624 N. GENERAL BRUCE DRTEMPLE       T - Card Ending In 7090", "amount":-19.09 }
+{ "date": "2015-11-02", "desc": "POS Withdrawal - IN-N-OUT BURGER #262 1075 WEST 1-20         ARLINGTON    TXU - Card Ending In 7090", "amount":-6.37 }
+{ "date": "2015-11-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-198.0 }
+{ "date": "2015-11-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-100.0 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - LEGENDS DAL COWBOYS CO 1 AT&T WAY             ARLINGTON    T - Card Ending In 7090", "amount":-25.5 }
+{ "date": "2015-11-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - JEB EVENT SOUVENIRS 198 138TH AVE NW       763-754-2668 MNUS - Card Ending In 7090", "amount":-23.76 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - DOUBLE DAVES PIZZAWORK 160 N NEW ROAD         WACO         T - Card Ending In 2000", "amount":-21.0 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - LEGENDS DAL COWBOYS CO 1 AT&T WAY             ARLINGTON    T - Card Ending In 7090", "amount":-18.0 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-16.59 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - LEGENDS DAL COWBOYS CO 1 AT&T WAY             ARLINGTON    T - Card Ending In 7090", "amount":-8.5 }
+{ "date": "2015-11-03", "desc": "POS Withdrawal - BACKBLAZE 500 BEN FRANKLIN CT    8778877815   CAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-11-04", "desc": "POS Withdrawal - PAYPAMS.COM 0463 9359 E NICHOLS AVE S   877-7267586  COUS - Card Ending In 7090", "amount":-50.0 }
+{ "date": "2015-11-04", "desc": "POS Withdrawal - CHIPOTLE 0346 5400 BRODIE LN STE 1230AUSTIN       TXUS - Card Ending In 2000", "amount":-18.44 }
+{ "date": "2015-11-04", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 2000", "amount":-17.0 }
+{ "date": "2015-11-04", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-11-04", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 2000", "amount":-8.14 }
+{ "date": "2015-11-04", "desc": "POS Withdrawal - 4029357733 2211 North First StreetSan Jose     CAUS - Card Ending In 2000", "amount":-2.06 }
+{ "date": "2015-11-04", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":100.0 }
+{ "date": "2015-11-05", "desc": "POS Withdrawal - ALAMO SLAUGHTER LANE R 5701 W SLAUGHTER LN    AUSTIN       T - Card Ending In 2000", "amount":-37.57 }
+{ "date": "2015-11-05", "desc": "POS Withdrawal - MUSICNOTES.COM 901 DEMING WAY SUITE 108009444667   WIUS - Card Ending In 2000", "amount":-5.75 }
+{ "date": "2015-11-05", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MATTH 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-11-05", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MARNI 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - 87607 HEB #014               KYLE         TXUS - Card Ending In 7090", "amount":-300.07 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - LANDRYS SA DOWNTOWN 517 N PRESA            SAN ANTONIO  TXUS - Card Ending In 2000", "amount":-74.43 }
+{ "date": "2015-11-06", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-50.0 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - DOWNTOWN FOOD STORE 531 ELM ST             SAN ANTONIO  TXUS - Card Ending In 7090", "amount":-39.03 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-27.99 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - LANDRYS SA DOWNTOWN 517 N PRESA            SAN ANTONIO  TXUS - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - 87607 HEB #014               KYLE         TXUS - Card Ending In 7090", "amount":-19.0 }
+{ "date": "2015-11-06", "desc": "POS Withdrawal - MAJESTIC EMPIRE THEATR 224 E. Houston SE      SAN ANTONIO  T - Card Ending In 2000", "amount":-8.0 }
+{ "date": "2015-11-06", "desc": "Dividend/Interest", "amount":0.09 }
+{ "date": "2015-11-07", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-52.82 }
+{ "date": "2015-11-07", "desc": "POS Withdrawal - RIVERBEND GARAGE 210 N PRESA            SAN ANTONIO  TXUS - Card Ending In 7090", "amount":-12.0 }
+{ "date": "2015-11-08", "desc": "POS Withdrawal - NST BEST BUY #204  061048 4970 US HWY 290 W      AUSTIN      - Card Ending In 7090", "amount":-45.39 }
+{ "date": "2015-11-08", "desc": "POS Withdrawal - GOODWILL 1233 OAK HILL 7100 W US HWY 290      AUSTIN       T - Card Ending In 2000", "amount":-42.16 }
+{ "date": "2015-11-08", "desc": "POS Withdrawal - 880366 CENTRAL MARKET         AUSTIN       TXUS - Card Ending In 2000", "amount":-14.21 }
+{ "date": "2015-11-09", "desc": "POS Withdrawal - GOODWILL 1215 DRIPPING SP 100 COMMONS ROAD       DRIPPING SP - Card Ending In 2000", "amount":-73.51 }
+{ "date": "2015-11-09", "desc": "POS Withdrawal - 878807 HEB #225               AUSTIN       TXUS - Card Ending In 7090", "amount":-69.37 }
+{ "date": "2015-11-09", "desc": "POS Withdrawal - JIMMY CLAY GOLF 5400 JIMMY CLAY DR     512-444-0999 TXUS - Card Ending In 7090", "amount":-30.0 }
+{ "date": "2015-11-09", "desc": "POS Withdrawal - LEWIS FAMILY MEDICINE 14101 HWY 290 W        AUSTIN       TX - Card Ending In 7090", "amount":-25.0 }
+{ "date": "2015-11-09", "desc": "POS Withdrawal - DOMINO'S 6418 105 S CANYONWOOD DR    830-257-4840 TXUS - Card Ending In 7090", "amount":-21.91 }
+{ "date": "2015-11-09", "desc": "POS Withdrawal - MCDONALD'S F7877 7010 HWY 71 W          AUSTIN       TXUS - Card Ending In 2000", "amount":-3.79 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - IN *AUSTIN JUNIOR VOLL 425 WOODWARD ST        512-4798776  T - Card Ending In 2000", "amount":-90.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - IN *PRO SHOP SOUTH 425 WOODWARD           512-4798776  TXUS - Card Ending In 2000", "amount":-40.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - CVS/PHARMACY #07 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-36.4 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-34.18 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-16.0 }
+{ "date": "2015-11-10", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-13.69 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-13.35 }
+{ "date": "2015-11-10", "desc": "IAT Withdrawal - IAT PAYPAL  J222225ZEFMJG  SKYPE COMMUNICATIONS SARL", "amount":-10.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-8.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-8.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - PLAYERS CONCESSIONS 5400 Jimmy Clay Dr     AUSTIN       TXUS - Card Ending In 7090", "amount":-4.5 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - PLAYERS CONCESSIONS 5400 Jimmy Clay Dr     AUSTIN       TXUS - Card Ending In 7090", "amount":-4.5 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-2.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-1.0 }
+{ "date": "2015-11-10", "desc": "POS Withdrawal - UNIV TX AUS SD20453403 1701 RED RIVER         AUSTIN       T - Card Ending In 7090", "amount":-1.0 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - AAA TX MEMBER PAYMENT 3333 FAIRVIEW RD.      08007650766  CA - Card Ending In 7090", "amount":-172.0 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - NST THE HOME DEPOT 072407 260 EAST HWY 290       DRIPPING SP - Card Ending In 7090", "amount":-61.5 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - YANKEE PIER TERMINAL 3 SPACE T32053SAN FRANCISCOCAUS - Card Ending In 2000", "amount":-31.3 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - XXXXXXXXXX81 OREILLY AUTO PARTS 441 DRIPPING SPRITXUS - Card Ending In 7090", "amount":-19.47 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          AMZN.COM/billW - Card Ending In 7090", "amount":-13.87 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - XXXXXXXXXX99 GHIRARDELLI STORE      SOUTH SAN FRACAUS - Card Ending In 2000", "amount":-6.75 }
+{ "date": "2015-11-11", "desc": "POS Withdrawal - MUSICNOTES.COM 901 DEMING WAY SUITE 108009444667   WIUS - Card Ending In 2000", "amount":-5.5 }
+{ "date": "2015-11-12", "desc": "ATM Withdrawal - NRT TECHNOLOGIE SEVEN FEATHERS CASINO  CANYONVILLE  ORUS - Card Ending In 2000", "amount":-203.0 }
+{ "date": "2015-11-12", "desc": "POS Withdrawal - CI SHENANIGANS  TACOMA 3327 RUSTON WAY        TACOMA       W - Card Ending In 2000", "amount":-33.02 }
+{ "date": "2015-11-12", "desc": "POS Withdrawal - 954261 SHELL Service S        REDDING      CAUS - Card Ending In 2000", "amount":-10.88 }
+{ "date": "2015-11-12", "desc": "POS Withdrawal - URBAN TORTILLA IRPORT- TERMINAL 3 NEARSAN FRANCISCOCAUS - Card Ending In 2000", "amount":-7.72 }
+{ "date": "2015-11-12", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-3.7 }
+{ "date": "2015-11-12", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":100.0 }
+{ "date": "2015-11-12", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":200.0 }
+{ "date": "2015-11-13", "desc": "IAT Withdrawal - IAT PAYPAL  J22222627QT2Q  SKYPE COMMUNICATIONS SARL", "amount":-52.26 }
+{ "date": "2015-11-13", "desc": "POS Withdrawal - 27262163 ARCO #42163            LOS ANGELES  CAUS - Card Ending In 2000", "amount":-32.93 }
+{ "date": "2015-11-13", "desc": "POS Withdrawal - IN-N-OUT BURGER #231 2011 BRONZE STAR DR    WOODLAND     CAU - Card Ending In 2000", "amount":-27.17 }
+{ "date": "2015-11-13", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-11-13", "desc": "POS Withdrawal - TACO TIME LONGVIEW 837 OCEAN BEACH HWY    LONGVIEW     WAUS - Card Ending In 2000", "amount":-12.71 }
+{ "date": "2015-11-13", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 7090", "amount":-11.85 }
+{ "date": "2015-11-13", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-8.84 }
+{ "date": "2015-11-14", "desc": "ATM Withdrawal - ASAI 5040 W  WILD HORSE PAS CHANDLER     AZUS - Card Ending In 2000", "amount":-202.5 }
+{ "date": "2015-11-14", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-180.0 }
+{ "date": "2015-11-14", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-27.78 }
+{ "date": "2015-11-14", "desc": "POS Withdrawal - AUSSIES BAR & GRILL 306 Barton Springs Rd  AUSTIN       TXUS - Card Ending In 7090", "amount":-7.0 }
+{ "date": "2015-11-14", "desc": "POS Withdrawal - MCDONALD'S F3318 1891 N 6TH ST          GRANTS PASS  ORUS - Card Ending In 2000", "amount":-6.23 }
+{ "date": "2015-11-14", "desc": "POS Withdrawal - 79946 LOVES CNTRY ST         QUARTZSITE   AZUS - Card Ending In 2000", "amount":-4.38 }
+{ "date": "2015-11-14", "desc": "POS Withdrawal - 1629 SHELL Service S        BOWIE        AZUS - Card Ending In 2000", "amount":-3.36 }
+{ "date": "2015-11-14", "desc": "POS Withdrawal - IMPERIAL PARKING 653 10850 Wilshire Blvd    LOS ANGELES  CAU - Card Ending In 2000", "amount":-3.0 }
+{ "date": "2015-11-15", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-101.06 }
+{ "date": "2015-11-15", "desc": "POS Withdrawal - 274792 SUNOCO 00867853        SONORA       TXUS - Card Ending In 2000", "amount":-27.28 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - COMO'S RESTAURANT 4030 N MESA            EL PASO      TXUS - Card Ending In 2000", "amount":-58.13 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - IPIC WESTWOOD F&B 10840 WILSHIRE BLVD    LOS ANGELES  CAUS - Card Ending In 2000", "amount":-33.43 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - WALGREENS 27495 RANCH ROAD 12    DRIPPING SPRITXUS - Card Ending In 2000", "amount":-27.03 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - TRAVELINGTIGER CENTERG 8700 INTERSTATE 10     SIERRA BLANCAT - Card Ending In 2000", "amount":-25.73 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - REDICLINIC - 48006 598 E HWY US 290       DRIPPING SPRITXUS - Card Ending In 2000", "amount":-25.0 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - CHEVRON 0202886 680 N OCOTILLO RD      BENSON       AZUS - Card Ending In 2000", "amount":-23.68 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - LOVE S COUNTRY00002865 760 S QUARTZSITE BLVD  QUARTZSITE   A - Card Ending In 2000", "amount":-19.23 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-19.05 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - 7510 WHP ENCORE LOUNGE 5040 WILD HORSE PASS BLCHANDLER     A - Card Ending In 2000", "amount":-12.5 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - Amazon.com 1200 12TH AVE          AMZN.COM/BILLWAUS - Card Ending In 7090", "amount":-11.93 }
+{ "date": "2015-11-16", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-10.81 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - CARL'S JR 542 2723 E. US Hwy 290     FT. STOCKTON TXUS - Card Ending In 2000", "amount":-10.58 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - 7430 WHP FATBURGER 5040 WILD HORSE PASS BLCHANDLER     AZUS - Card Ending In 2000", "amount":-9.99 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - TRAVELINGTIGER CENTERG 8700 INTERSTATE 10     SIERRA BLANCAT - Card Ending In 2000", "amount":-5.93 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          AMZN.COM/billW - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - Amazon Video On Demand 1200 12th Ave          AMZN.COM/billW - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-11-16", "desc": "POS Withdrawal - LOVE S COUNTRY00002865 760 S QUARTZSITE BLVD  QUARTZSITE   A - Card Ending In 2000", "amount":-3.97 }
+{ "date": "2015-11-17", "desc": "POS Withdrawal - TINA'S NAIL SPA 27490 RANCH RD BLD     DRIPPING SPRITXUS - Card Ending In 2000", "amount":-45.0 }
+{ "date": "2015-11-17", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-11-17", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-11-17", "desc": "POS Withdrawal - GREY ROCK GOLF CLUB 7401 STATE HIGHWAY 45  AUSTIN       TXUS - Card Ending In 7090", "amount":-10.0 }
+{ "date": "2015-11-17", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-7.12 }
+{ "date": "2015-11-18", "desc": "ATM Withdrawal - CHASE 2800 N TERMINAL RD     HOUSTON      TXUS - Card Ending In 2000", "amount":-303.0 }
+{ "date": "2015-11-18", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-11-18", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-8.41 }
+{ "date": "2015-11-19", "desc": "ATM Withdrawal - Frgn Fee Incl 0.2 LOS CABOS      MX - Card Ending In 7090", "amount":-99.73 }
+{ "date": "2015-11-19", "desc": "POS Withdrawal - NEWS CONN C SO2230674 3950 S TERMINAL RD     HOUSTON      TX - Card Ending In 2000", "amount":-27.97 }
+{ "date": "2015-11-19", "desc": "POS Withdrawal - TACO BELL #030075 104 B E. HWY 290       DRIPPING SPRITXUS - Card Ending In 2000", "amount":-12.72 }
+{ "date": "2015-11-20", "desc": "POS Withdrawal - Frgn Fee Incl 0.12 SAN JOSE DEL   MX - Card Ending In 2000", "amount":-61.57 }
+{ "date": "2015-11-20", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-15.0 }
+{ "date": "2015-11-20", "desc": "POS Withdrawal - AUSTIN AIRPORT-RETAIL 3600 PRESIDENTIAL BLVD AUSTIN       TX - Card Ending In 2000", "amount":-3.79 }
+{ "date": "2015-11-20", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 3739", "amount":-0.76 }
+{ "date": "2015-11-21", "desc": "POS Withdrawal - Frgn Fee Incl 0.15 SAN JOSE DEL 00MX - Card Ending In 7090", "amount":-78.17 }
+{ "date": "2015-11-21", "desc": "POS Withdrawal - Frgn Fee Incl 0.08 SAN JOSE DEL 00MX - Card Ending In 7090", "amount":-41.38 }
+{ "date": "2015-11-21", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-25.0 }
+{ "date": "2015-11-21", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-11-21", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 00207099655", "amount":-0.49 }
+{ "date": "2015-11-22", "desc": "ATM Withdrawal - Frgn Fee Incl 0.12 LOS CABOS B.  MX - Card Ending In 2000", "amount":-62.19 }
+{ "date": "2015-11-22", "desc": "ATM Withdrawal - Frgn Fee Incl 0.02 LOS CABOS B.  MX - Card Ending In 2000", "amount":-8.03 }
+{ "date": "2015-11-22", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 52295442560", "amount":-0.63 }
+{ "date": "2015-11-22", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 52295442535", "amount":-0.33 }
+{ "date": "2015-11-23", "desc": "POS Withdrawal - Frgn Fee Incl 0.26 LOS CABOS    00MX - Card Ending In 2000", "amount":-131.22 }
+{ "date": "2015-11-23", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-21.34 }
+{ "date": "2015-11-23", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-11-23", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 004550", "amount":-0.48 }
+{ "date": "2015-11-23", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 004549", "amount":-0.05 }
+{ "date": "2015-11-24", "desc": "ATM Withdrawal - Frgn Fee Incl 0.25 LOS CABOS      MX - Card Ending In 2000", "amount":-124.75 }
+{ "date": "2015-11-24", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-5.11 }
+{ "date": "2015-11-24", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 52154250293", "amount":-1.05 }
+{ "date": "2015-11-25", "desc": "ATM Withdrawal -  BANCO MULTIVA          LOS CABOS      MX - Card Ending In 2000", "amount":-91.5 }
+{ "date": "2015-11-25", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 3873", "amount":-0.96 }
+{ "date": "2015-11-26", "desc": "POS Withdrawal - Frgn Fee Incl 0.23 CABO SAN LUCA  MX - Card Ending In 2000", "amount":-115.22 }
+{ "date": "2015-11-26", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-45.0 }
+{ "date": "2015-11-26", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 7090", "amount":-34.42 }
+{ "date": "2015-11-26", "desc": "POS Withdrawal - IN-N-OUT BURGER #306 3701 S LAMAR BLVD      AUSTIN       TXU - Card Ending In 2000", "amount":-23.82 }
+{ "date": "2015-11-26", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-12.91 }
+{ "date": "2015-11-26", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 8794", "amount":-0.64 }
+{ "date": "2015-11-27", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-222.49 }
+{ "date": "2015-11-27", "desc": "POS Withdrawal - NST THE HOME DEPOT 671929 260 EAST HWY 290       DRIPPING SP - Card Ending In 2000", "amount":-40.62 }
+{ "date": "2015-11-27", "desc": "POS Withdrawal - TMOBILE*UPGRADE 12920 SE 38th St       800-937-8997 WAUS - Card Ending In 7090", "amount":-25.0 }
+{ "date": "2015-11-27", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-8.55 }
+{ "date": "2015-11-27", "desc": "ATM Foreign Transaction Fee - Foreign Transaction Fee Reference Trace 00059026402", "amount":-0.92 }
+{ "date": "2015-11-28", "desc": "POS Withdrawal - 11871517 BIG LOTS  AUSTINTX    AUSTIN       TXUS - Card Ending In 2000", "amount":-115.59 }
+{ "date": "2015-11-28", "desc": "POS Withdrawal - 75901 CORNER STORE 13        DRIPPING SPRITXUS - Card Ending In 7090", "amount":-51.49 }
+{ "date": "2015-11-28", "desc": "POS Withdrawal - EXXONMOBIL    4812905 11720 FM 1826          AUSTIN       TX - Card Ending In 2000", "amount":-18.31 }
+{ "date": "2015-11-28", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-1.38 }
+{ "date": "2015-11-28", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":200.0 }
+{ "date": "2015-11-29", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 7090", "amount":-5.96 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - BJS RESTAURANTS 471 5207 BRODIE LANE #300  SUNSET VALLEYTXUS - Card Ending In 2000", "amount":-73.3 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - THE HOME DEPOT 4703 1715 SOUTH 352ND ST    FEDERAL WAY  WAUS - Card Ending In 7090", "amount":-54.75 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - PAYPAL *WISH 7700 EASTPORT PARKWAY  4029357733   CAUS - Card Ending In 2000", "amount":-52.0 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - 222220225369 MICHAELS STORES INC988 AUSTIN       TXUS - Card Ending In 2000", "amount":-34.83 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - 151877 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-29.52 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - SUPERCUTS AUSTIN 1025 Cannon Drive #107 DRIPPING SPRITXUS - Card Ending In 7090", "amount":-22.99 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - REGAL CINEMAS WESTGATE 4477 S LAMAR BLVD ST   AUSTIN       T - Card Ending In 7090", "amount":-20.54 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-11.72 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - DSC*DOLLAR SHAVE CLUB 513 Boccaccio Ave      866-2232780  CA - Card Ending In 2000", "amount":-6.0 }
+{ "date": "2015-11-30", "desc": "POS Withdrawal - GOOGLE *Google Storage 1600 Amphitheatre Pkwy GOOGLE.COM/CHC - Card Ending In 7090", "amount":-2.12 }
+{ "date": "2015-12-01", "desc": "POS Withdrawal - TUESDAY MORNING # 0439 4006 SOUTH LAMAR       AUSTIN       T - Card Ending In 2000", "amount":-72.3 }
+{ "date": "2015-12-01", "desc": "POS Withdrawal - SAVERS 1094 4001 S LAMAR BLVD      AUSTIN       TXUS - Card Ending In 2000", "amount":-68.08 }
+{ "date": "2015-12-01", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-59.99 }
+{ "date": "2015-12-01", "desc": "POS Withdrawal - NST THE HOME DEPOT 432095 260 EAST HWY 290       DRIPPING SP - Card Ending In 2000", "amount":-51.29 }
+{ "date": "2015-12-01", "desc": "Withdrawal - Online Banking Transfer To Visa XXXXXXXXXXXX9293", "amount":-36.0 }
+{ "date": "2015-12-01", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-12-01", "desc": "IAT Withdrawal - IAT PAYPAL  J2222266SG72S  SKYPE COMMUNICATIONS SARL", "amount":-25.0 }
+{ "date": "2015-12-01", "desc": "POS Withdrawal - PEI WEI #0078      QPS 4200 S LAMAR #100      AUSTIN       T - Card Ending In 2000", "amount":-19.89 }
+{ "date": "2015-12-01", "desc": "POS Withdrawal - IN *PRO SHOP SOUTH 425 WOODWARD           512-4798776  TXUS - Card Ending In 2000", "amount":-18.4 }
+{ "date": "2015-12-01", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-14.5 }
+{ "date": "2015-12-01", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-10.0 }
+{ "date": "2015-12-01", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-5.17 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - 5063298995 COST PLUS WLD #276     BEE CAVE     TXUS - Card Ending In 2000", "amount":-91.86 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-88.93 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - PAYPAMS.COM 0463 9359 E NICHOLS AVE S   877-7267586  COUS - Card Ending In 7090", "amount":-70.0 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - 694453 TRADER JOE'S  #        AUSTIN       TXUS - Card Ending In 2000", "amount":-47.48 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - 91182717 MARSHALLS MARSHALLS    BEE CAVE     TXUS - Card Ending In 2000", "amount":-35.67 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - SHELL OIL 57545735706 14403 FM 17826         DRIPPING SPRITX - Card Ending In 2000", "amount":-34.08 }
+{ "date": "2015-12-02", "desc": "POS Withdrawal - SUBWAY        0028443 2800 E WHITESTONE BLVD CEDAR PARK   TX - Card Ending In 7090", "amount":-8.17 }
+{ "date": "2015-12-02", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-6.9 }
+{ "date": "2015-12-02", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-1.0 }
+{ "date": "2015-12-03", "desc": "POS Withdrawal - STUDIO 1826 14401 FM 1826          AUSTIN       TXUS - Card Ending In 2000", "amount":-160.0 }
+{ "date": "2015-12-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-60.0 }
+{ "date": "2015-12-03", "desc": "POS Withdrawal - 1751002485 RANDALLS FUEL     2485 AUSTIN       TXUS - Card Ending In 2000", "amount":-28.04 }
+{ "date": "2015-12-03", "desc": "POS Withdrawal - GOODWILL 1233 OAK HILL 7100 W US HWY 290      AUSTIN       T - Card Ending In 2000", "amount":-18.35 }
+{ "date": "2015-12-03", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-8.09 }
+{ "date": "2015-12-03", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MATTH 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-12-03", "desc": "POS Withdrawal - GOOGLE *SVCSAPPS_MARNI 1600 Amphitheatre Pkwy CC@GOOGLE.COMC - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-12-03", "desc": "POS Withdrawal - BACKBLAZE 500 BEN FRANKLIN CT    8778877815   CAUS - Card Ending In 7090", "amount":-5.0 }
+{ "date": "2015-12-04", "desc": "ATM Withdrawal - BECU 35105 ENCHANTED PARKWAYFEDERAL WAY  WAUS - Card Ending In 7090", "amount":-800.0 }
+{ "date": "2015-12-04", "desc": "POS Withdrawal - 2920003501 SAFEWAY  STORE  3501   FEDERAL WAY  WAUS - Card Ending In 7090", "amount":-117.97 }
+{ "date": "2015-12-04", "desc": "POS Withdrawal - 13505883 KOHLS 058 4805 W HWY 2 SUNSET VALLEYTXUS - Card Ending In 2000", "amount":-25.4 }
+{ "date": "2015-12-04", "desc": "POS Withdrawal - STUDIO 1826 14401 FM 1826          AUSTIN       TXUS - Card Ending In 2000", "amount":-14.0 }
+{ "date": "2015-12-04", "desc": "POS Withdrawal - MCDONALD'S F1121 3300 BEE CAVE RD       WEST LAKE HILTXUS - Card Ending In 2000", "amount":-6.39 }
+{ "date": "2015-12-04", "desc": "POS Withdrawal -  CHEVRON/CLASSIC STAR GRAUSTIN       TXUS - Card Ending In 2000", "amount":-4.18 }
+{ "date": "2015-12-04", "desc": "Dividend/Interest", "amount":0.06 }
+{ "date": "2015-12-04", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":200.0 }
+{ "date": "2015-12-04", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":800.0 }
+{ "date": "2015-12-05", "desc": "POS Withdrawal - 175000248 RANDALLS STORE    2480 AUSTIN       TXUS - Card Ending In 2000", "amount":-131.61 }
+{ "date": "2015-12-05", "desc": "ATM Withdrawal - WELLS FARGO BNK DRIPPING-SPRI  S MOTOR DRIPPING SPGSTXUS - Card Ending In 2000", "amount":-103.0 }
+{ "date": "2015-12-05", "desc": "POS Withdrawal - DZIRE NAILS 6705 W HIGHWAY 290  602AUSTIN       TXUS - Card Ending In 2000", "amount":-85.0 }
+{ "date": "2015-12-05", "desc": "POS Withdrawal - IN *PRO SHOP SOUTH 425 WOODWARD           512-4798776  TXUS - Card Ending In 2000", "amount":-21.65 }
+{ "date": "2015-12-05", "desc": "POS Withdrawal - SQ *NORTH 47 BREWIN 1455 MARKET ST         TACOMA       WAUS - Card Ending In 7090", "amount":-9.35 }
+{ "date": "2015-12-06", "desc": "POS Withdrawal - 294692 JD MARKET #4           AUSTIN       TXUS - Card Ending In 2000", "amount":-8.57 }
+{ "date": "2015-12-07", "desc": "ATM Withdrawal - CAPITAL ONE 7200 NORTH MOPAC       AUSTIN       TXUS - Card Ending In 2000", "amount":-803.0 }
+{ "date": "2015-12-07", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-245.0 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - ZEN 3423 GUADALUPE ST.     AUSTIN       TXUS - Card Ending In 2000", "amount":-49.3 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - TRUDY'S FOUR STAR 13059 FOUR STAR BLVD.  AUSTIN       TXUS - Card Ending In 2000", "amount":-32.31 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - 979606 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-22.9 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - SQ *AMY'S ICE CREAMS 604 West 35th Street   Austin       TXU - Card Ending In 2000", "amount":-14.64 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - BROWNS POINT DINER 6620 EAST SIDE DR NE   TACOMA       WAUS - Card Ending In 7090", "amount":-10.85 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - 91189118 MARSHALLS MARSHALLS    AUSTIN       TXUS - Card Ending In 2000", "amount":-7.57 }
+{ "date": "2015-12-07", "desc": "POS Withdrawal - AUSTIN PARKING METERS 124 W. 8th Street      AUSTIN       TX - Card Ending In 2000", "amount":-3.0 }
+{ "date": "2015-12-07", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":1000.0 }
+{ "date": "2015-12-08", "desc": "ATM Withdrawal - Cardtronics CCS 6412 WEST HIGHWAY 290  AUSTIN       TXUS - Card Ending In 2000", "amount":-62.95 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - CHAMPIONS REST&SPTSBR1 300 EAST 4TH STREET    AUSTIN       T - Card Ending In 2000", "amount":-34.57 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - 976135 SHELL Service S        AUSTIN       TXUS - Card Ending In 2000", "amount":-29.48 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - USPS 4804159551 6104 OLD FREDERICKSBURGAUSTIN       TXUS - Card Ending In 2000", "amount":-19.06 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - CY BY MARRIOTTSTRBCKS1 300 EAST 4 TH STREET   AUSTIN       T - Card Ending In 2000", "amount":-10.9 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - USPS 4804159551 6104 OLD FREDERICKSBURGAUSTIN       TXUS - Card Ending In 2000", "amount":-10.55 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - MCDONALD'S F7877 7010 HWY 71 W          AUSTIN       TXUS - Card Ending In 2000", "amount":-10.1 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal -  CHEVRON/CAR WASH ENTERPFEDERAL WAY  WAUS - Card Ending In 7090", "amount":-8.62 }
+{ "date": "2015-12-08", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-8.39 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - USPS 4804159551 6104 OLD FREDERICKSBURGAUSTIN       TXUS - Card Ending In 2000", "amount":-6.65 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - USPS 4804159551 6104 OLD FREDERICKSBURGAUSTIN       TXUS - Card Ending In 2000", "amount":-5.75 }
+{ "date": "2015-12-08", "desc": "POS Withdrawal - LIGHTHOUSE IGA 1000 TOWN CENTER N.E   TACOMA       WAUS - Card Ending In 7090", "amount":-3.92 }
+{ "date": "2015-12-09", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-30.0 }
+{ "date": "2015-12-09", "desc": "POS Withdrawal - PRECISION PAIN CONS 4613 BEE CAVES ROAD    WEST LAKE HILTXUS - Card Ending In 2000", "amount":-21.0 }
+{ "date": "2015-12-09", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":200.0 }
+{ "date": "2015-12-10", "desc": "POS Withdrawal - KERBEY LANE CAFE-WESTL 701 S CAP OF TX HWY    AUSTIN       T - Card Ending In 2000", "amount":-55.9 }
+{ "date": "2015-12-10", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-10.0 }
+{ "date": "2015-12-10", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-7.7 }
+{ "date": "2015-12-10", "desc": "POS Withdrawal - TACO BELL 031329 1330 S. 348TH ST.      FEDERAL WAY  WAUS - Card Ending In 7090", "amount":-5.02 }
+{ "date": "2015-12-11", "desc": "POS Withdrawal - 879257 HEB #611               DRIPPING SPRITXUS - Card Ending In 2000", "amount":-242.54 }
+{ "date": "2015-12-11", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-26.42 }
+{ "date": "2015-12-11", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-10.0 }
+{ "date": "2015-12-11", "desc": "POS Withdrawal - MCDONALD'S F7877 7010 HWY 71 W          AUSTIN       TXUS - Card Ending In 2000", "amount":-5.63 }
+{ "date": "2015-12-11", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-5.0 }
+{ "date": "2015-12-11", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":925.0 }
+{ "date": "2015-12-12", "desc": "POS Withdrawal - KERBEY LANE CAFE-SW 4301 W WM CANNON       AUSTIN       TXUS - Card Ending In 2000", "amount":-39.61 }
+{ "date": "2015-12-12", "desc": "POS Withdrawal -  CHEVRON/HRUSKAS        ELLINGER     TXUS - Card Ending In 7090", "amount":-24.46 }
+{ "date": "2015-12-12", "desc": "POS Withdrawal - WENDY'S 104 4115 S CONGRESS AVE    AUSTIN       TXUS - Card Ending In 2000", "amount":-16.81 }
+{ "date": "2015-12-12", "desc": "POS Withdrawal - APL* ITUNES.COM/BILL 1 INFINITE LOOP        866-712-7753 CAU - Card Ending In 7090", "amount":-12.22 }
+{ "date": "2015-12-13", "desc": "POS Withdrawal - 67107022949 THE HOME DEPOT 8995    DRIPPING SPRITXUS - Card Ending In 7090", "amount":-4.55 }
+{ "date": "2015-12-13", "desc": "POS Withdrawal - 135617 SUNMART #121           SEALY        TXUS - Card Ending In 7090", "amount":-4.52 }
+{ "date": "2015-12-13", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":50.0 }
+{ "date": "2015-12-14", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-925.0 }
+{ "date": "2015-12-14", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-100.0 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - FIREHOUSE SUBS # 4 3924 BELLAIRE BLVD     HOUSTON      TXUS - Card Ending In 7090", "amount":-45.87 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - 222220224757 MICHAELS STORES INC670 BEE CAVES    TXUS - Card Ending In 2000", "amount":-34.25 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - GREYHOUND LINES CNP 350 N ST PAUL ST       214-849-8966 TXUS - Card Ending In 7090", "amount":-31.5 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - CVS/PHARMACY #07 7607--13510 W HIGHWAY AUSTIN       TXUS - Card Ending In 2000", "amount":-26.73 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - MCDONALD'S F24097 5015 WESTHEIMER #1340  HOUSTON      TXUS - Card Ending In 2000", "amount":-18.77 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - 91182717 MARSHALLS MARSHALLS    BEE CAVE     TXUS - Card Ending In 2000", "amount":-18.34 }
+{ "date": "2015-12-14", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-10.0 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-8.89 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - SUBWAY        00145003 5168 NE I 10 FRONTAGE  SEALY        T - Card Ending In 2000", "amount":-8.66 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":-8.53 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - JACK IN THE BOX #0627 3908 BELLAIRE BLVD     HOUSTON      TX - Card Ending In 7090", "amount":-5.62 }
+{ "date": "2015-12-14", "desc": "POS Withdrawal - AMAZON VIDEO ON DEMAND 440 TERRY AVE N        866-216-1072 W - Card Ending In 7090", "amount":-4.26 }
+{ "date": "2015-12-14", "desc": "POS Deposit - AMAZON MKTPLACE PMTS 440 Terry Ave N        AMZN.COM/BILLWAU - Card Ending In 7090", "amount":7.28 }
+{ "date": "2015-12-14", "desc": "POS Deposit - FIREHOUSE SUBS # 4 3924 BELLAIRE BLVD     HOUSTON      TXUS - Card Ending In 7090", "amount":10.01 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - COSTCO WHSE #0641 4301 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 2000", "amount":-167.8 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - 175000248 RANDALLS STORE    2480 AUSTIN       TXUS - Card Ending In 2000", "amount":-86.56 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - 694453 TRADER JOE'S  #        AUSTIN       TXUS - Card Ending In 2000", "amount":-83.03 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - 456004 STERN BEVERAGE         AUSTIN       TXUS - Card Ending In 2000", "amount":-56.27 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - OLD NAVY US 5413 12909 Shops Parkway    BEE CAVES    TXUS - Card Ending In 2000", "amount":-32.85 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - SHELL OIL 575420855QPS 3906 SOUTH CONGRESS AVEAUSTIN       T - Card Ending In 2000", "amount":-30.49 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - COSTCO WHSE #0641 4301 W WILLIAM CANNON DAUSTIN       TXUS - Card Ending In 2000", "amount":-25.17 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - CEDAR VALLEY SPIRITS 12002 West Highway 290 AUSTIN       TXU - Card Ending In 2000", "amount":-21.64 }
+{ "date": "2015-12-15", "desc": "POS Withdrawal - 294692 JD MARKET #4           AUSTIN       TXUS - Card Ending In 2000", "amount":-19.9 }
+{ "date": "2015-12-15", "desc": "External Withdrawal - PAYPAL INSTANT TRANSFER - INST XFER", "amount":-10.81 }
+{ "date": "2015-12-15", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX CK", "amount":1360.48 }
+{ "date": "2015-12-15", "desc": "Deposit - Online Banking Transfer from XXXXXXXXXX SAV", "amount":2209.03 }
+{ "date": "2015-12-16", "desc": "POS Withdrawal - MANDOLA'S ITALIAN 12815 SOPS PKWY SU     BEE CAVE     TXUS - Card Ending In 2000", "amount":-28.98 }
+{ "date": "2015-12-16", "desc": "POS Withdrawal - MOBSTUB.COM 495 EMPIRE BLVD        888-2296390  NYUS - Card Ending In 2000", "amount":-25.9 }
+{ "date": "2015-12-16", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-20.0 }
+{ "date": "2015-12-16", "desc": "External Withdrawal - Acorns.com 855-739-2859 - WEB PMTS", "amount":-13.54 }
+{ "date": "2015-12-16", "desc": "Withdrawal - Online Banking Transfer To XXXXXXXXXX CK", "amount":-10.0 }
