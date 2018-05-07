@@ -71,7 +71,7 @@ Let us try to guide you so that you can select the right approach to this course
 
 ### I'm a Data Scientist
 
-If you are a data scientist and you primary role in your projects is to reason over data, build queries and provide insights, we would strongly recommend that you use the Jupyter Notebooks.
+If you are a data scientist and your primary responsibilities in your projects are to reason over data, build queries and provide insights, we would strongly recommend that you use the Jupyter Notebooks.
 
 You will have a choice to run the notebooks in Scala or Python. Python seems to be the preferred language among data scientists, but Scala is also a very good option. Spark was written in Scala, so the Scala API is perhaps a bit richer (in particular, some of the more advanced Spark libraries don't have Python binding yet).
 
