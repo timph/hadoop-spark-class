@@ -16,9 +16,9 @@ The notebooks can be found:
 
 * Lab 01: Pair RDD Word Count
     * Scala
-        * [lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/notebooks/scala-530-01-pair-rdd-word-count.ipynb](lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/notebooks/scala-530-01-pair-rdd-word-count.ipynb)
+        * [lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/notebooks/scala-530-01-pair-rdd-word-count.ipynb](lab-01-pair-rdd-word-count/notebooks/scala-530-01-pair-rdd-word-count.ipynb)
     * Python
-        * [lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/notebooks/python-530-01-pair-rdd-word-count.ipynb](lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/notebooks/python-530-01-pair-rdd-word-count.ipynb)
+        * [lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/notebooks/python-530-01-pair-rdd-word-count.ipynb](lab-01-pair-rdd-word-count/notebooks/python-530-01-pair-rdd-word-count.ipynb)
     * Spark Shell
         * [lesson-530-developing-spark-applications/labs/lab-01-pair-rdd-word-count/spark-shell/instructions.md](lab-01-pair-rdd-word-count/spark-shell/instructions.md)
 

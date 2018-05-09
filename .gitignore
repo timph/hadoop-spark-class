@@ -4,5 +4,6 @@ target/
 ~*
 spark2.3/
 context/
+mynotebooks/
 *.class
 bin/
