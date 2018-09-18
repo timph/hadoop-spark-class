@@ -53,7 +53,7 @@ That's it. You should now be setup to run the streaming lab.
   * Python
       * We'll use notebooks
       * The notebook is here:
-      [lesson-550-spark-streaming/labs/lab-01-suspicious-purchase-amounts/notebooks/python-550-lab-01-suspicious-purchase-amounts-window-operations.ipynb](lab-01-suspicious-purchase-amounts/notebooks/python-550-lab-01-suspicious-purchase-amounts-window-operations.ipynb)
+      [lesson-550-spark-streaming/labs/lab-01-suspicious-purchase-amounts/notebooks/python-550-lab-01-suspicious-purchase-amounts-window-operations.ipynb](lab-01-suspicious-purchase-amounts/notebooks/python-550-lab-01-suspicious-purchase-amounts-using-state.ipynb)
 
 * Lab 02: Window Operations
     * Scala
