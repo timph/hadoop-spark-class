@@ -17,7 +17,7 @@ Python programmers should use the Scala version of the notebooks for the graph e
     * Python
         * [lesson-570-mllib-graphx/labs/lab-01-ml-kmeans/notebooks/python-570-lab-01-ml-kmeans.ipynb](lab-01-ml-kmeans/notebooks/python-570-lab-01-ml-kmeans.ipynb)
     * Spark Shell
-        * [lesson-560-spark-sql/labs/lab-01-sql/spark-shell/instructions.md](lab-01-sql/spark-shell/instructions.md)
+        * [lesson-560-spark-sql/labs/lab-01-sql/spark-shell/instructions.md](lab-01-ml-kmeans/spark-shell/instructions.md)
 * Lab 02: GraphX Transfers
     * Scala
         * [lesson-570-mllib-graphx/labs/lab-02-graphx-transfers/notebooks/scala-570-lab-02-graphx-transfers.ipynb](lab-02-graphx-transfers/notebooks/scala-570-lab-02-graphx-transfers.ipynb)
