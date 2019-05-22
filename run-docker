@@ -1,0 +1,1 @@
+docker run -it --rm -p 8888:8888 -v /Users/timpham/workspace/hadoop-102.1-with-scala-python-java/lesson-5xx-resources:/home/jovyan/Resources -e SPARK_OPTS=--driver-memory jupyter/all-spark-notebook
